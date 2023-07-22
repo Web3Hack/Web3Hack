@@ -32,6 +32,9 @@ NFT、区块链、加密货币、NFT、DeFi
 - https://mp.weixin.qq.com/template/article/1690024990/index.html
 - https://github.com/Quillhash/Web3-Security-Tools
 - https://github.com/Web3-Club
+- https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese
+- https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E6%9C%AC%E8%81%AA
+- https://www.odaily.news/post/5177927
 
 ## 00-Web3岗位
 
