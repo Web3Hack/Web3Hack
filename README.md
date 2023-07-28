@@ -48,6 +48,7 @@
 - [ ] https://github.com/zzhsec/Web3.0-Security-RSS
 - [ ] https://www.freebuf.com/articles/blockchain-articles
 - [ ] https://paper.seebug.org/category/blockchain/
+- [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 
 ## 02-Web3岗位
 
@@ -73,4 +74,3 @@
 - [ ] https://stablegram.com/
 - [ ] https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729
 - [ ] https://github.com/JiceJin/who-is-hiring
-
