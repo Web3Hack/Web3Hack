@@ -49,6 +49,7 @@
 - [ ] https://www.freebuf.com/articles/blockchain-articles
 - [ ] https://paper.seebug.org/category/blockchain/
 - [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
+- [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 
 ## 02-Web3岗位
 
