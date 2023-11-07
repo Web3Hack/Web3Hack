@@ -2,7 +2,17 @@
 
 Know Web3 Then Hack it.
 
-## 01-Web3资源
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月7日。作者：[0e0w](https://github.com/0e0w)
+
+## 01-Web3政策法规
+
+一、中国大陆
+
+二、中国香港
+
+三、开放态度
+
+## 02-Web3学习资源
 
 关键字：NFT、区块链、加密货币、智能合约、NFT、DeFi
 
@@ -65,7 +75,21 @@ Know Web3 Then Hack it.
 - [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 
-## 02-Web3招聘
+## 03-Web3安全研究
+
+一、黑客事件
+
+二、区块链安全
+
+二、钱包安全
+
+三、交易所安全
+
+## 04-Web3冷热钱包
+
+## 05-Web3公司平台
+
+一、交易所
 
 一、Web3公司
 
@@ -94,23 +118,9 @@ Know Web3 Then Hack it.
 - [ ] https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729
 - [ ] https://github.com/JiceJin/who-is-hiring
 
-## 03-Web3安全
+## 06-Web3知名公链
 
-一、区块链安全
-
-二、钱包安全
-
-三、交易所安全
-
-## 04-Web3政策
-
-一、中国大陆
-
-二、中国香港
-
-三、开放态度
-
-## 05-Web3交易
+## 07-Web3实盘交易
 
 一、币币交易
 
@@ -118,7 +128,7 @@ Know Web3 Then Hack it.
 
 三、法币交易
 
-## 06-Web3人物
+## 08-Web3知名人物
 
 - https://github.com/xiaolai
 - https://twitter.com/sunyuchentron
