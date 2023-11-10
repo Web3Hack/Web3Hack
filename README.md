@@ -2,15 +2,16 @@
 
 Know Web3 Then Hack it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月7日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月10日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3政策法规](https://github.com/Web3Hack/Web3Hack#01-web3%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)
 - [02-Web3学习资源](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [03-Web3安全研究](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
-- [04-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#04-web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
-- [05-Web3公司平台](https://github.com/Web3Hack/Web3Hack#05-web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
-- [06-Web3知名公链](https://github.com/Web3Hack/Web3Hack#06-web3%E7%9F%A5%E5%90%8D%E5%85%AC%E9%93%BE)
-- [07-Web3实盘交易](https://github.com/Web3Hack/Web3Hack#07-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
+- [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
+- [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
+- [06-Web3公司平台](https://github.com/Web3Hack/Web3Hack#06-web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
+- [07-Web3知名公链](https://github.com/Web3Hack/Web3Hack#07-web3%E7%9F%A5%E5%90%8D%E5%85%AC%E9%93%BE)
+- [08-Web3实盘交易](https://github.com/Web3Hack/Web3Hack#08-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
 
 ## 01-Web3政策法规
 
@@ -79,36 +80,58 @@ Know Web3 Then Hack it.
 - [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 
+三、地址查询
+
+- https://etherscan.io
+- https://bscscan.com
+- https://www.oklink.com
+
 九、其他资源
 
 ## 03-Web3安全研究
 
-一、黑客事件
+一、钱包安全
 
-二、钱包安全
+- https://github.com/iossecurity
+- https://github.com/apksecurity
 
-三、交易所安全
+二、交易所安全
 
-四、智能合约安全
+- 常规渗透测试
+- https://github.com/ASTTeam
+
+三、智能合约安全
 
 - https://xz.aliyun.com/t/12986
 
-九、岗位要求
+四、岗位要求
 
 - https://www.lagou.com/wn/jobs/11504460.html
 - https://www.lagou.com/wn/jobs/11418567.html
 
-## 04-Web3冷热钱包
+## 04-Web3黑客事件
+
+一、事件统计
+
+- https://hacked.slowmist.io/zh/
+
+二、公开事件
+
+## 05-Web3冷热钱包
 
 一、知名钱包
 
+- https://www.ledger.com/
+
 二、钱包分类
+
+- 澳大利亚：https://www.coinspot.com.au/
 
 三、创建钱包
 
 - https://goethereumbook.org/zh/wallet-generate/
 
-## 05-Web3公司平台
+## 06-Web3公司平台
 
 一、知名交易所
 
@@ -153,9 +176,11 @@ Know Web3 Then Hack it.
 - [ ] https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729
 - [ ] https://github.com/JiceJin/who-is-hiring
 
-## 06-Web3知名公链
+## 07-Web3知名公链
 
-## 07-Web3实盘交易
+## 08-Web3实盘交易
+
+体验过瞬时拉涨的飙升快感，也体验过爆仓强平的悔恨，赌徒而已。禁止交易！
 
 一、币币交易
 
@@ -163,7 +188,7 @@ Know Web3 Then Hack it.
 
 三、法币交易
 
-## 08-Web3知名人物
+## 09-Web3知名人物
 
 - https://github.com/xiaolai
 - https://twitter.com/sunyuchentron
