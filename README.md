@@ -1,8 +1,8 @@
 # Web3Hack
 
-Know Web3 Then Hack it.
+Know Web3 Know Hack Then Protect it..
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月13日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月14日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3政策法规](https://github.com/Web3Hack/Web3Hack#01-web3%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)
 - [02-Web3学习资源](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
@@ -116,6 +116,43 @@ Know Web3 Then Hack it.
 九、安全工具
 - https://github.com/fuzzland/ityfuzz
 - https://fuzz.land/
+- https://github.com/trailofbits/eth-security-toolbox
+- https://github.com/tandil-dev/forsage-audit
+- https://github.com/zkoranges/zkPoEX
+- https://github.com/EOS-Nation/light-kyc-identity-report
+- https://github.com/ericnordelo/nile-coverage
+- https://github.com/siddhantsharma301/traverse
+- https://github.com/byterocket/auditSign
+- https://github.com/kb0304/zimedar-nagrik
+- https://github.com/mmsaki/dog-registry-blockchain-app
+
+九、审计报告
+
+- [ ] smart contracts report、smart contract pdf、智能合约安全审计
+- [ ] https://github.com/runtimeverification/publications
+- [ ] https://cn.slowmist.com/service-smart-contract-security-audit.html
+- [ ] https://blog.chain.link/how-to-audit-smart-contract-zh/
+- [ ] https://trustchain.medium.com/full-smart-contract-audit-methodology-2023-b29db744bf3e
+- [ ] https://paper.seebug.org/1664/
+- [ ] https://academy.binance.com/zh/articles/what-is-a-smart-contract-security-audit
+- [ ] https://www.cnblogs.com/Soy-technology/p/16774835.html
+- [ ] https://cloud.tencent.com/developer/article/2152878
+- [ ] https://www.blockglobe24.com/news02/27394.html
+- [ ] https://lorexxar.cn/2018/12/01/contract-checklist/
+- [ ] https://www.bnbchain.org/en/blog/certik-integration-guide-on-binance-smart-chain
+- [ ] https://docs.hatom.com/getting-started/security/security-reports
+- [ ] https://docs.babyswap.finance/audits
+- [x] https://github.com/TechRate/Smart-Contract-Audits
+- [ ] https://github.com/Quillhash/QuillAudit_Reports
+- [ ] https://github.com/coinscope-co/audits
+- [ ] https://github.com/Tech-Audit/Smart-Contract-Audits
+- [ ] https://github.com/SpyWolfNetwork/Smart_Contract_Audits
+- [ ] https://github.com/AuditBlock/AuditBlock_Reports_V1.0
+- [ ] https://github.com/Hexens/Smart-Contract-Review-Public-Reports
+- [ ] https://github.com/0xKitsune/solstat-reports
+- [ ] https://github.com/zaryab2000/Smart-Contracts_Audit_Reports
+- [ ] https://github.com/CrackenTechAudit/Reports
+- [ ] https://github.com/CrackenTechAudit/Reports
 
 ## 04-Web3黑客事件
 
@@ -142,6 +179,7 @@ Know Web3 Then Hack it.
 ## 06-Web3公司平台
 
 一、知名交易所
+- https://skynet.certik.com/zh-CN/leaderboards/exchange
 - 币安：https://www.binance.com
 - 火币：https://www.htx.com
 - 欧易：https://www.okx.com
@@ -150,14 +188,21 @@ Know Web3 Then Hack it.
 二、安全公司
 - Certik：https://www.certik.com
 - Beosin：https://www.beosin.com
-- 慢雾：https://slowmist.io
-- 零时：https://www.noneage.com
+- 慢雾科技：https://slowmist.io
+- 零时科技：https://www.noneage.com
 - 成都链安：https://www.lianantech.com
 - 北京链安：https://safeis.cn
 - 知道创宇：https://www.knownsec.com
 - https://vatin.io
+- https://hexens.io
 - http://armorslab.com
 - https://www.numencyber.com
+- https://arda.run
+- https://github.com/runtimeverification
+- https://credshields.com
+- https://www.immunebytes.com
+- https://techrate.org
+- https://spywolf.co
 
 三、Web3岗位
 - [ ] https://web3.career/
@@ -198,8 +243,15 @@ Know Web3 Then Hack it.
 
 三、法币交易
 
-## 09-Web3知名人物
+## 09-Web3参考连接
 
 - https://github.com/xiaolai
 - https://twitter.com/sunyuchentron
 - https://twitter.com/justinsuntron
+- https://github.com/TechRate
+- https://github.com/Quillhash
+- https://github.com/coinscope-co
+- https://github.com/Tech-Audit
+- https://github.com/SpyWolfNetwork
+- https://github.com/AuditBlock
+- https://github.com/Hexens
