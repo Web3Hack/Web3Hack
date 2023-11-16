@@ -1,30 +1,24 @@
 # Web3Hack
 
-Know Web3 Know Hack Then Protect it..
+Know Web3 Know Hack Then Protect it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月14日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月16日。作者：[0e0w](https://github.com/0e0w)
 
-- [01-Web3政策法规](https://github.com/Web3Hack/Web3Hack#01-web3%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)
-- [02-Web3学习资源](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-- [03-Web3安全研究](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
-- [04-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#04-web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
-- [05-Web3公司平台](https://github.com/Web3Hack/Web3Hack#05-web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
-- [06-Web3知名公链](https://github.com/Web3Hack/Web3Hack#06-web3%E7%9F%A5%E5%90%8D%E5%85%AC%E9%93%BE)
-- [07-Web3实盘交易](https://github.com/Web3Hack/Web3Hack#07-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
+- [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
+- [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
+- [03-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#03-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
+- [04-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#04-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
+- [05-Web3公司平台](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
+- [06-Web3参考连接](https://github.com/Web3Hack/Web3Hack#06-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
 
-## 01-Web3政策法规
-
-一、中国大陆
-
-二、中国香港
-
-三、开放态度
-
-## 02-Web3学习资源
+## 01-Web3学习资源
 
 关键字：NFT、区块链、加密货币、智能合约、NFT、DeFi
 
-一、书籍资源
+一、政策法规
+
+二、书籍资源
+
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
 - [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
 - [ ] [《区块链安全技术指南》](https://item.jd.com/39942557423.html)@黄连金等
@@ -40,7 +34,7 @@ Know Web3 Know Hack Then Protect it..
 - [ ] [《Mastering Ethereum （中文版）》](https://github.com/inoutcode/ethereum_book)@inoutcode
 - [ ] https://yeasy.gitbook.io/blockchain_guide
 
-二、基础内容
+三、优秀资源
 - [ ] https://zh.wikipedia.org/zh-cn/Web3
 - [ ] 《[黑手册(DarkHandBook)](https://github.com/evilcos/darkhandbook)》@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
@@ -54,7 +48,6 @@ Know Web3 Know Hack Then Protect it..
 - [ ] https://github.com/rebase-network/who-is-hiring
 - [ ] https://foresightnews.pro/job/detail/238
 - [ ] https://www.w3cschool.cn/solidity/
-- [ ] https://github.com/slowmist/Knowledge-Base
 - [ ] https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook
 - [ ] https://github.com/shakenetwork/blockchain-security-awesome
 - [ ] https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec
@@ -82,55 +75,48 @@ Know Web3 Know Hack Then Protect it..
 - [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 
-三、地址查询
-
+四、地址查询
 - https://etherscan.io
 - https://bscscan.com
 - https://www.oklink.com
 
-九、其他资源
+五、其他资源
 
-## 03-Web3安全研究
-
-一、区块链安全工程师
-- https://chinadefi.com/2293.html
-- https://chirpset.com/t/topic/448
-
-二、钱包安全
-
-- https://github.com/iossecurity
-- https://github.com/apksecurity
-
-三、交易所安全
-
-- 常规渗透测试
-- https://github.com/ASTTeam
-
-四、智能合约安全
 - https://xz.aliyun.com/t/12986
 
-九、岗位要求
-- https://www.lagou.com/wn/jobs/11504460.html
-- https://www.lagou.com/wn/jobs/11418567.html
+## 02-Web3安全研究
 
-九、安全工具
-- https://github.com/fuzzland/ityfuzz
-- https://fuzz.land/
-- https://github.com/trailofbits/eth-security-toolbox
-- https://github.com/tandil-dev/forsage-audit
-- https://github.com/zkoranges/zkPoEX
-- https://github.com/EOS-Nation/light-kyc-identity-report
-- https://github.com/ericnordelo/nile-coverage
-- https://github.com/siddhantsharma301/traverse
-- https://github.com/byterocket/auditSign
-- https://github.com/kb0304/zimedar-nagrik
-- https://github.com/mmsaki/dog-registry-blockchain-app
+一、学习路线
+- [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
+- [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
+- [ ] https://chinadefi.com/2293.html
+- [ ] https://chirpset.com/t/topic/448
 
-九、审计报告
+二、审计标准
+
+三、审计报告
 
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
-- [ ] https://github.com/runtimeverification/publications
-- [ ] https://cn.slowmist.com/service-smart-contract-security-audit.html
+- [ ] Smart Contracts、Blockchain、DApps 
+- [x] [Certik Audit Reports]()
+- [x] [Runtime Verification Audit Reports](https://github.com/runtimeverification/publications)
+- [x] [AuditBlock Audit Reports](https://github.com/AuditBlock/AuditBlock_Reports_V1.0)
+- [x] [Beosin Audit Reports](https://www.beosin.com)
+- [ ] https://github.com/TechRate/Smart-Contract-Audits
+- [ ] https://github.com/Quillhash/QuillAudit_Reports
+- [ ] https://github.com/coinscope-co/audits
+- [ ] https://github.com/Tech-Audit/Smart-Contract-Audits
+- [ ] https://github.com/SpyWolfNetwork/Smart_Contract_Audits
+- [ ] https://github.com/Hexens/Smart-Contract-Review-Public-Reports
+- [ ] https://github.com/0xKitsune/solstat-reports
+- [ ] https://github.com/zaryab2000/Smart-Contracts_Audit_Reports
+- [ ] https://github.com/CrackenTechAudit/Reports
+- [x] https://github.com/peckshield/publications
+- [ ] https://github.com/MotechAudit/Audit-Certificate
+- [ ] https://github.com/MotechAudit/Smart-Contract-Audits
+- [ ] https://github.com/KRYPTAUDIT/Smart-Contracts-Audits
+- [ ] https://github.com/1inch/1inch-audits
+- [x] https://code4rena.com/reports/
 - [ ] https://blog.chain.link/how-to-audit-smart-contract-zh/
 - [ ] https://trustchain.medium.com/full-smart-contract-audit-methodology-2023-b29db744bf3e
 - [ ] https://paper.seebug.org/1664/
@@ -142,41 +128,42 @@ Know Web3 Know Hack Then Protect it..
 - [ ] https://www.bnbchain.org/en/blog/certik-integration-guide-on-binance-smart-chain
 - [ ] https://docs.hatom.com/getting-started/security/security-reports
 - [ ] https://docs.babyswap.finance/audits
-- [x] https://github.com/TechRate/Smart-Contract-Audits
-- [ ] https://github.com/Quillhash/QuillAudit_Reports
-- [ ] https://github.com/coinscope-co/audits
-- [ ] https://github.com/Tech-Audit/Smart-Contract-Audits
-- [ ] https://github.com/SpyWolfNetwork/Smart_Contract_Audits
-- [ ] https://github.com/AuditBlock/AuditBlock_Reports_V1.0
-- [ ] https://github.com/Hexens/Smart-Contract-Review-Public-Reports
-- [ ] https://github.com/0xKitsune/solstat-reports
-- [ ] https://github.com/zaryab2000/Smart-Contracts_Audit_Reports
-- [ ] https://github.com/CrackenTechAudit/Reports
-- [ ] https://github.com/CrackenTechAudit/Reports
 
-## 04-Web3黑客事件
+四、审计工具
+
+- [ ] https://github.com/fuzzland/ityfuzz
+- [ ] https://fuzz.land/
+- [ ] https://github.com/trailofbits/eth-security-toolbox
+- [ ] https://github.com/tandil-dev/forsage-audit
+- [ ] https://github.com/zkoranges/zkPoEX
+- [ ] https://github.com/EOS-Nation/light-kyc-identity-report
+- [ ] https://github.com/ericnordelo/nile-coverage
+- [ ] https://github.com/siddhantsharma301/traverse
+- [ ] https://github.com/byterocket/auditSign
+- [ ] https://github.com/kb0304/zimedar-nagrik
+- [ ] https://github.com/mmsaki/dog-registry-blockchain-app
+- [ ] https://github.com/Consensys
+- [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
+
+## 03-Web3黑客事件
 
 一、事件统计
-
 - https://hacked.slowmist.io/zh/
 
 二、公开事件
 
-## 05-Web3冷热钱包
+## 04-Web3冷热钱包
 
 一、知名钱包
-
 - https://www.ledger.com/
 
 二、钱包分类
-
-- 澳大利亚：https://www.coinspot.com.au/
+- https://www.coinspot.com.au/
 
 三、创建钱包
-
 - https://goethereumbook.org/zh/wallet-generate/
 
-## 06-Web3公司平台
+## 05-Web3公司平台
 
 一、知名交易所
 - https://skynet.certik.com/zh-CN/leaderboards/exchange
@@ -186,25 +173,32 @@ Know Web3 Know Hack Then Protect it..
 - https://www.bitget.com
 
 二、安全公司
-- Certik：https://www.certik.com
-- Beosin：https://www.beosin.com
-- 慢雾科技：https://slowmist.io
-- 零时科技：https://www.noneage.com
-- 成都链安：https://www.lianantech.com
-- 北京链安：https://safeis.cn
-- 知道创宇：https://www.knownsec.com
-- https://vatin.io
-- https://hexens.io
-- http://armorslab.com
-- https://www.numencyber.com
-- https://arda.run
-- https://github.com/runtimeverification
-- https://credshields.com
-- https://www.immunebytes.com
-- https://techrate.org
-- https://spywolf.co
+- [ ] Certik：https://www.certik.com
+- [x] Beosin：https://www.beosin.com
+- [ ] 慢雾科技：https://slowmist.io
+- [ ] 零时科技：https://www.noneage.com
+- [ ] 成都链安：https://www.lianantech.com
+- [ ] 北京链安：https://safeis.cn
+- [ ] 知道创宇：https://www.knownsec.com
+- [ ] https://vatin.io
+- [ ] https://hexens.io
+- [ ] http://armorslab.com
+- [ ] https://www.numencyber.com
+- [ ] https://arda.run
+- [ ] https://github.com/runtimeverification
+- [ ] https://credshields.com
+- [ ] https://www.immunebytes.com
+- [ ] https://techrate.org
+- [ ] https://spywolf.co
+- [ ] https://www.zokyo.io
+- [ ] https://tokyotechie.com
+- [ ] https://code4rena.com
+- [ ] https://chainsecurity.com
+- [ ] https://desufi.com
 
 三、Web3岗位
+- [ ] https://www.lagou.com/wn/jobs/11504460.html
+- [ ] https://www.lagou.com/wn/jobs/11418567.html
 - [ ] https://web3.career/
 - [ ] https://remote3.co/
 - [x] https://www.bolejobs.co
@@ -231,19 +225,7 @@ Know Web3 Know Hack Then Protect it..
 04-其他平台
 - https://www.maskex.com/
 
-## 07-Web3知名公链
-
-## 08-Web3实盘交易
-
-体验过瞬时拉涨的飙升快感，也体验过爆仓强平的悔恨，赌徒而已。禁止交易！
-
-一、币币交易
-
-二、永续合约
-
-三、法币交易
-
-## 09-Web3参考连接
+## 06-Web3参考连接
 
 - https://github.com/xiaolai
 - https://twitter.com/sunyuchentron
@@ -255,3 +237,4 @@ Know Web3 Know Hack Then Protect it..
 - https://github.com/SpyWolfNetwork
 - https://github.com/AuditBlock
 - https://github.com/Hexens
+- https://github.com/peckshield
