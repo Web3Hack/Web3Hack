@@ -2,7 +2,7 @@
 
 Know Web3 Know Hack Then Protect it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月16日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月17日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
@@ -83,6 +83,7 @@ Know Web3 Know Hack Then Protect it.
 五、其他资源
 
 - https://xz.aliyun.com/t/12986
+- https://github.com/VenusProtocol/venus-protocol
 
 ## 02-Web3安全研究
 
@@ -91,8 +92,12 @@ Know Web3 Know Hack Then Protect it.
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 - [ ] https://chinadefi.com/2293.html
 - [ ] https://chirpset.com/t/topic/448
+- [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)
+- [ ] https://paper.seebug.org/1664/
 
 二、审计标准
+
+- https://github.com/fairyproof-io/Solidity-Vulnerability-Library
 
 三、审计报告
 
@@ -195,6 +200,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://code4rena.com
 - [ ] https://chainsecurity.com
 - [ ] https://desufi.com
+- [ ] https://www.fairyproof.com
 
 三、Web3岗位
 - [ ] https://www.lagou.com/wn/jobs/11504460.html
