@@ -2,7 +2,7 @@
 
 Know Web3 Know Hack Then Protect it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月17日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月20日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
@@ -18,7 +18,6 @@ Know Web3 Know Hack Then Protect it.
 一、政策法规
 
 二、书籍资源
-
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
 - [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
 - [ ] [《区块链安全技术指南》](https://item.jd.com/39942557423.html)@黄连金等
@@ -34,7 +33,9 @@ Know Web3 Know Hack Then Protect it.
 - [ ] [《Mastering Ethereum （中文版）》](https://github.com/inoutcode/ethereum_book)@inoutcode
 - [ ] https://yeasy.gitbook.io/blockchain_guide
 
-三、优秀资源
+三、培训演讲
+
+四、优秀资源
 - [ ] https://zh.wikipedia.org/zh-cn/Web3
 - [ ] 《[黑手册(DarkHandBook)](https://github.com/evilcos/darkhandbook)》@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
@@ -81,9 +82,9 @@ Know Web3 Know Hack Then Protect it.
 - https://www.oklink.com
 
 五、其他资源
-
 - https://xz.aliyun.com/t/12986
 - https://github.com/VenusProtocol/venus-protocol
+- https://www.yun88.com/product/2599.html
 
 ## 02-Web3安全研究
 
@@ -94,13 +95,18 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://chirpset.com/t/topic/448
 - [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)
 - [ ] https://paper.seebug.org/1664/
+- [ ] [关于区块链智能合约安全漏洞类型连载分析](https://github.com/Lianantech/Security-Vulnerabilities-Analysis-Series)@链安
+- [ ] [以太坊智能合约审计CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList)@知道创宇
+- [ ] [区块链公链审计Checklist](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651372563&idx=2&sn=5496dcfd278c2d11c8cad17aee99fb23&chksm=8d39cd9bba4e448d8ced57e6dfa7df8bd905d24c71d46a3025f900f1f9e91057eeffa70abada&scene=21#wechat_redirect)@长亭
+- [ ] https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q
+- [ ] https://github.com/slowmist/eos-bp-nodes-security-checklist
 
 二、审计标准
 
 - https://github.com/fairyproof-io/Solidity-Vulnerability-Library
+- https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
 
 三、审计报告
-
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
 - [ ] Smart Contracts、Blockchain、DApps 
 - [x] [Certik Audit Reports]()
@@ -116,12 +122,28 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/0xKitsune/solstat-reports
 - [ ] https://github.com/zaryab2000/Smart-Contracts_Audit_Reports
 - [ ] https://github.com/CrackenTechAudit/Reports
+- [x] https://github.com/HashEx/public_audits
 - [x] https://github.com/peckshield/publications
+- [ ] https://github.com/zokyo-sec/audit-reports
 - [ ] https://github.com/MotechAudit/Audit-Certificate
 - [ ] https://github.com/MotechAudit/Smart-Contract-Audits
 - [ ] https://github.com/KRYPTAUDIT/Smart-Contracts-Audits
+- [x] https://github.com/Defimoonorg/Audit-Report
+- [x] https://github.com/cyberscope-io/audits
+- [x] https://github.com/0xGuard-com/audit-reports
+- [x] https://github.com/ContractWolf/smart-contract-audits
+- [x] https://github.com/solidproof/smart-contract-audits
+- [ ] https://github.com/Rugfreecoins/Smart-Contract-Audits
+- [x] https://github.com/solidified-platform/audits
+- [ ] https://github.com/blocksecteam/audit-reports
+- [x] https://github.com/Coinsult/solidity
+- [ ] https://github.com/blocksafu111/audit
 - [ ] https://github.com/1inch/1inch-audits
 - [x] https://code4rena.com/reports/
+- [ ] https://github.com/verichains/public-audit-reports
+- [ ] https://github.com/movebit/Sampled-Audit-Reports
+- [ ] https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports
+- [ ] https://github.com/oak-security/audit-reports
 - [ ] https://blog.chain.link/how-to-audit-smart-contract-zh/
 - [ ] https://trustchain.medium.com/full-smart-contract-audit-methodology-2023-b29db744bf3e
 - [ ] https://paper.seebug.org/1664/
@@ -133,9 +155,9 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://www.bnbchain.org/en/blog/certik-integration-guide-on-binance-smart-chain
 - [ ] https://docs.hatom.com/getting-started/security/security-reports
 - [ ] https://docs.babyswap.finance/audits
+- [ ] https://de.fi/audit-database
 
 四、审计工具
-
 - [ ] https://github.com/fuzzland/ityfuzz
 - [ ] https://fuzz.land/
 - [ ] https://github.com/trailofbits/eth-security-toolbox
@@ -148,6 +170,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/kb0304/zimedar-nagrik
 - [ ] https://github.com/mmsaki/dog-registry-blockchain-app
 - [ ] https://github.com/Consensys
+- [ ] https://github.com/FuzzingLabs/octopus
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 ## 03-Web3黑客事件
@@ -201,6 +224,9 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://chainsecurity.com
 - [ ] https://desufi.com
 - [ ] https://www.fairyproof.com
+- [ ] https://de.fi/
+- [ ] https://github.com/HashEx
+- [ ] https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security
 
 三、Web3岗位
 - [ ] https://www.lagou.com/wn/jobs/11504460.html
@@ -244,3 +270,4 @@ Know Web3 Know Hack Then Protect it.
 - https://github.com/AuditBlock
 - https://github.com/Hexens
 - https://github.com/peckshield
+- https://github.com/chainflag
