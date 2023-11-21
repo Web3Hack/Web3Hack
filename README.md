@@ -2,7 +2,7 @@
 
 Know Web3 Know Hack Then Protect it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月20日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年11月21日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
@@ -75,6 +75,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://paper.seebug.org/category/blockchain/
 - [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
+- [ ] https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 
 四、地址查询
 - https://etherscan.io
@@ -100,11 +101,28 @@ Know Web3 Know Hack Then Protect it.
 - [ ] [区块链公链审计Checklist](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651372563&idx=2&sn=5496dcfd278c2d11c8cad17aee99fb23&chksm=8d39cd9bba4e448d8ced57e6dfa7df8bd905d24c71d46a3025f900f1f9e91057eeffa70abada&scene=21#wechat_redirect)@长亭
 - [ ] https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q
 - [ ] https://github.com/slowmist/eos-bp-nodes-security-checklist
+- [ ] https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
+- [ ] https://github.com/slowmist/cryptocurrency-security
+- [ ] https://github.com/saeidshirazi/Awesome-Smart-Contract-Security
+- [ ] https://github.com/Quillhash/QuillAudit_Auditor_Roadmap
+- [ ] https://github.com/Quillhash/Smart-Contract-Developer-Roadmap
+- [ ] [09smart-contracts-security.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
+- [ ] https://github.com/hzysvilla/Academic_Smart_Contract_Papers
+- [ ] https://github.com/HalbornSecurity/CTFs
+- [ ] https://github.com/crytic/awesome-ethereum-security
+- [ ] https://github.com/0xsomnus/Solidity-DevSecOps-Standard
+- [ ] https://github.com/sigp/solidity-security-blog
 
 二、审计标准
-
-- https://github.com/fairyproof-io/Solidity-Vulnerability-Library
-- https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
+- [ ] https://swcregistry.io
+- [ ] https://dasp.co
+- [ ] https://github.com/fairyproof-io/Solidity-Vulnerability-Library
+- [ ] https://github.com/immunefi-team/Web3-Security-Library
+- [ ] https://github.com/cryptofinlabs/audit-checklist
+- [ ] https://ethereum.org/en/developers/tutorials/secure-development-workflow
+- [ ] https://securing.github.io/SCSVS/
+- [ ] https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
+- [ ] https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/
 
 三、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
@@ -173,6 +191,16 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/FuzzingLabs/octopus
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
+五、漏洞赏金
+- [ ] https://bugrap.io
+- [ ] https://code4rena.com
+- [ ] https://immunefi.com
+- [ ] https://github.com/0xJuancito/audits
+
+六、开发测试
+- https://github.com/yosriady/contracts-starter
+- https://github.com/jTanG0506/smart-contract-engineer
+
 ## 03-Web3黑客事件
 
 一、事件统计
@@ -226,6 +254,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://www.fairyproof.com
 - [ ] https://de.fi/
 - [ ] https://github.com/HashEx
+- [ ] https://github.com/sigp
 - [ ] https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security
 
 三、Web3岗位
@@ -271,3 +300,7 @@ Know Web3 Know Hack Then Protect it.
 - https://github.com/Hexens
 - https://github.com/peckshield
 - https://github.com/chainflag
+- https://github.com/yosriady
+- https://github.com/red4sec
+- https://github.com/0xJuancito
+- https://github.com/NoneAge
