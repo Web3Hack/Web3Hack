@@ -2,7 +2,7 @@
 
 Know Web3 Know Hack Then Protect it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年11月21日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2023年12月21日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
@@ -189,6 +189,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/mmsaki/dog-registry-blockchain-app
 - [ ] https://github.com/Consensys
 - [ ] https://github.com/FuzzingLabs/octopus
+- [ ] https://github.com/0xsha/ChainWalker
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 五、漏洞赏金
