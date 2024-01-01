@@ -2,7 +2,7 @@
 
 Know Web3 Know Hack Then Protect it.
 
-本项目创建于2023年11月7日，最近的一次更新时间为2023年12月21日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月1日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
@@ -34,6 +34,11 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://yeasy.gitbook.io/blockchain_guide
 
 三、培训演讲
+
+- [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
+- [ ] https://www.bilibili.com/video/BV1Uu4y1m7WK
+- [ ] https://www.youtube.com/watch?v=DRZogmD647U
+- [ ] [http://course.intogateway.com](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
 
 四、优秀资源
 - [ ] https://zh.wikipedia.org/zh-cn/Web3
@@ -76,6 +81,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 - [ ] https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
+- [ ] https://github.com/0xJuancito/multichain-auditor
 
 四、地址查询
 - https://etherscan.io
