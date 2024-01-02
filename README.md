@@ -1,23 +1,24 @@
 # Web3Hack
 
-Know Web3 Know Hack Then Protect it.
-
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月1日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月2日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-- [02-Web3安全研究](https://github.com/Web3Hack/Web3Hack#02-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
-- [03-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#03-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
-- [04-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#04-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
-- [05-Web3公司平台](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
-- [06-Web3参考连接](https://github.com/Web3Hack/Web3Hack#06-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
+- [02-Web3开发部署](https://github.com/Web3Hack/Web3Hack#02-Web3%E5%BC%80%E5%8F%91%E9%83%A8%E7%BD%B2)
+- [03-Web3安全研究](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
+- [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
+- [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
+- [06-Web3公司平台](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
+- [07-Web3参考连接](https://github.com/Web3Hack/Web3Hack#07-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
 
-## 01-Web3学习资源
-
-关键字：NFT、区块链、加密货币、智能合约、NFT、DeFi
+## 01-Web3资源汇总
 
 一、政策法规
 
 二、书籍资源
+- [x] [《精通区块链编程》](https://item.jd.com/12620946.html)@郭理靖等译
+- [x] [《精通以太坊》](https://item.jd.com/12522707.html)@喻勇等译
+- [ ] [《Mastering Ethereum》](https://github.com/ethereumbook/ethereumbook)@wbnns
+- [ ] [《Mastering Ethereum （中文版）》](https://github.com/inoutcode/ethereum_book)@inoutcode
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
 - [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
 - [ ] [《区块链安全技术指南》](https://item.jd.com/39942557423.html)@黄连金等
@@ -29,16 +30,17 @@ Know Web3 Know Hack Then Protect it.
 - [ ] [《精通以太坊智能合约开发》](https://item.jd.com/10075910987430.html)@熊丽兵
 - [ ] [《数字货币投资宝典》](https://item.jd.com/10048888184688.html)@欧立奇
 - [ ] [《区块链革命》](https://item.jd.com/12033804.html)@凯尔等译
-- [ ] [《Mastering Ethereum》](https://github.com/ethereumbook/ethereumbook)@wbnns
-- [ ] [《Mastering Ethereum （中文版）》](https://github.com/inoutcode/ethereum_book)@inoutcode
+- [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
 - [ ] https://yeasy.gitbook.io/blockchain_guide
+- [ ] https://decert.me/tutorials
 
 三、培训演讲
-
 - [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
 - [ ] https://www.bilibili.com/video/BV1Uu4y1m7WK
 - [ ] https://www.youtube.com/watch?v=DRZogmD647U
 - [ ] [http://course.intogateway.com](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
+- [ ] https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s
+- [ ] [区块链安全实战修炼营](https://learnblockchain.cn/course/38)@BlockSec
 
 四、优秀资源
 - [ ] https://zh.wikipedia.org/zh-cn/Web3
@@ -82,18 +84,40 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 - [ ] https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 - [ ] https://github.com/0xJuancito/multichain-auditor
+- [ ] https://github.com/Cyfrin/security-and-auditing-full-course-s23
+- [ ] https://github.com/manifoldfinance/defi-threat
+- [ ] https://github.com/harendra-shakya/smart-contract-attack-vectors
+- [ ] https://github.com/Dexaran/DAPP-security-standards
+- [ ] https://proxies.yacademy.dev/
+- [ ] https://github.com/OpenZeppelin/ethernaut
+- [ ] https://wiki.learnblockchain.cn/
+- [ ] https://github.com/ethereum/solidity
+- [ ] https://github.com/AmazingAng/WTF-Solidity
+- [ ] https://github.com/dukedaily/solidity-expert
+- [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
+- [ ] https://blog.csdn.net/JinxMow/article/details/103400817
+- [ ] https://learnblockchain.cn/
+- [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
+- [ ] https://xz.aliyun.com/t/4145
+- [ ] https://bloodzer0.github.io/ossa/code_audit/solitity/
+- [ ] https://github.com/0xisk/awesome-solidity-gas-optimization
+- [ ] https://github.com/0xisk/awesome-solidity-security
+- [ ] https://github.com/0xisk/awesome-solidity-projects
+- [ ] https://solidity-by-example.org/
 
-四、地址查询
-- https://etherscan.io
-- https://bscscan.com
-- https://www.oklink.com
+五、地址查询
+- [ ] https://etherscan.io
+- [ ] https://bscscan.com
+- [ ] https://www.oklink.com
 
-五、其他资源
-- https://xz.aliyun.com/t/12986
-- https://github.com/VenusProtocol/venus-protocol
-- https://www.yun88.com/product/2599.html
+六、其他资源
+- [ ] https://xz.aliyun.com/t/12986
+- [ ] https://github.com/VenusProtocol/venus-protocol
+- [ ] https://www.yun88.com/product/2599.html
 
-## 02-Web3安全研究
+## 02-Web3开发部署
+
+## 03-Web3安全研究
 
 一、学习路线
 - [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
@@ -118,6 +142,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/crytic/awesome-ethereum-security
 - [ ] https://github.com/0xsomnus/Solidity-DevSecOps-Standard
 - [ ] https://github.com/sigp/solidity-security-blog
+- [ ] https://hacken.io/discover/dapp-security-guide/
 
 二、审计标准
 - [ ] https://swcregistry.io
@@ -129,6 +154,7 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://securing.github.io/SCSVS/
 - [ ] https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
 - [ ] https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/
+- [ ] https://github.com/OpenZeppelin/openzeppelin-contracts
 
 三、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
@@ -208,14 +234,14 @@ Know Web3 Know Hack Then Protect it.
 - https://github.com/yosriady/contracts-starter
 - https://github.com/jTanG0506/smart-contract-engineer
 
-## 03-Web3黑客事件
+## 04-Web3黑客事件
 
 一、事件统计
 - https://hacked.slowmist.io/zh/
 
 二、公开事件
 
-## 04-Web3冷热钱包
+## 05-Web3冷热钱包
 
 一、知名钱包
 - https://www.ledger.com/
@@ -226,7 +252,7 @@ Know Web3 Know Hack Then Protect it.
 三、创建钱包
 - https://goethereumbook.org/zh/wallet-generate/
 
-## 05-Web3公司平台
+## 06-Web3公司平台
 
 一、知名交易所
 - https://skynet.certik.com/zh-CN/leaderboards/exchange
@@ -290,10 +316,10 @@ Know Web3 Know Hack Then Protect it.
 - [ ] https://github.com/JiceJin/who-is-hiring
 - [ ] https://parax.ai/
 
-04-其他平台
+四、其他平台
 - https://www.maskex.com/
 
-## 06-Web3参考连接
+## 07-Web3参考连接
 
 - https://github.com/xiaolai
 - https://twitter.com/sunyuchentron
