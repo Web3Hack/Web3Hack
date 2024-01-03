@@ -1,9 +1,9 @@
 # Web3Hack
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月2日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月3日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-- [02-Web3开发部署](https://github.com/Web3Hack/Web3Hack#02-Web3%E5%BC%80%E5%8F%91%E9%83%A8%E7%BD%B2)
+- [02-Web3开发语言](https://github.com/Web3Hack/Web3Hack#02-Web3%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
 - [03-Web3安全研究](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
 - [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
 - [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
@@ -34,16 +34,32 @@
 - [ ] https://yeasy.gitbook.io/blockchain_guide
 - [ ] https://decert.me/tutorials
 
-三、培训演讲
+三、优秀资源
+- [ ] [《比特币白皮书》](https://bitcoin.org/bitcoin.pdf)@Satoshi Nakamoto
+- [ ] [《以太坊白皮书》](https://ethereum.org/zh/whitepaper/)@Vitalik Buterin
+- [ ] https://zh.wikipedia.org/zh-cn/Web3
+
+四、视频教程
 - [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
 - [ ] https://www.bilibili.com/video/BV1Uu4y1m7WK
 - [ ] https://www.youtube.com/watch?v=DRZogmD647U
 - [ ] [http://course.intogateway.com](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
-- [ ] https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s
 - [ ] [区块链安全实战修炼营](https://learnblockchain.cn/course/38)@BlockSec
+- [ ] [《区块链技术与应用》](https://www.bilibili.com/video/av37065233/)@北大肖臻
 
-四、优秀资源
-- [ ] https://zh.wikipedia.org/zh-cn/Web3
+五、论坛博客
+- [ ] https://bitcointalk.org
+- [ ] https://www.learnblockchain.cn
+- [ ] https://www.wtf.academy
+
+六、学术论文
+
+七、地址查询
+- [ ] https://etherscan.io
+- [ ] https://bscscan.com
+- [ ] https://www.oklink.com
+
+八、其他资源
 - [ ] 《[黑手册(DarkHandBook)](https://github.com/evilcos/darkhandbook)》@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
 - [ ] https://techflowpost.substack.com/p/web3
@@ -96,30 +112,34 @@
 - [ ] https://github.com/dukedaily/solidity-expert
 - [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
 - [ ] https://blog.csdn.net/JinxMow/article/details/103400817
-- [ ] https://learnblockchain.cn/
 - [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
 - [ ] https://xz.aliyun.com/t/4145
 - [ ] https://bloodzer0.github.io/ossa/code_audit/solitity/
 - [ ] https://github.com/0xisk/awesome-solidity-gas-optimization
 - [ ] https://github.com/0xisk/awesome-solidity-security
 - [ ] https://github.com/0xisk/awesome-solidity-projects
-- [ ] https://solidity-by-example.org/
-
-五、地址查询
-- [ ] https://etherscan.io
-- [ ] https://bscscan.com
-- [ ] https://www.oklink.com
-
-六、其他资源
+- [ ] https://solidity-by-example.org
 - [ ] https://xz.aliyun.com/t/12986
 - [ ] https://github.com/VenusProtocol/venus-protocol
 - [ ] https://www.yun88.com/product/2599.html
 
-## 02-Web3开发部署
+## 02-Web3开发语言
+
+一、学习资源
+
+二、视频教程
+- [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
+
+二、知名框架
+
+四、开源项目
+- [ ] https://github.com/ConsenSys/Tokens
+
+四、安全开发
 
 ## 03-Web3安全研究
 
-一、学习路线
+一、学习资源
 - [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 - [ ] https://chinadefi.com/2293.html
@@ -144,7 +164,13 @@
 - [ ] https://github.com/sigp/solidity-security-blog
 - [ ] https://hacken.io/discover/dapp-security-guide/
 
-二、审计标准
+二、学习视频
+- [ ] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
+- [ ] [Smart Contract Security and Auditing 101](https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s)@Chainlink
+
+三、漏洞类型
+
+四、审计标准
 - [ ] https://swcregistry.io
 - [ ] https://dasp.co
 - [ ] https://github.com/fairyproof-io/Solidity-Vulnerability-Library
@@ -156,7 +182,7 @@
 - [ ] https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/
 - [ ] https://github.com/OpenZeppelin/openzeppelin-contracts
 
-三、审计报告
+五、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
 - [ ] Smart Contracts、Blockchain、DApps 
 - [x] [Certik Audit Reports]()
@@ -207,7 +233,7 @@
 - [ ] https://docs.babyswap.finance/audits
 - [ ] https://de.fi/audit-database
 
-四、审计工具
+六、审计工具
 - [ ] https://github.com/fuzzland/ityfuzz
 - [ ] https://fuzz.land/
 - [ ] https://github.com/trailofbits/eth-security-toolbox
@@ -224,15 +250,16 @@
 - [ ] https://github.com/0xsha/ChainWalker
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
-五、漏洞赏金
+七、漏洞赏金
 - [ ] https://bugrap.io
 - [ ] https://code4rena.com
 - [ ] https://immunefi.com
+- [ ] https://hackenproof.com
 - [ ] https://github.com/0xJuancito/audits
 
-六、开发测试
-- https://github.com/yosriady/contracts-starter
-- https://github.com/jTanG0506/smart-contract-engineer
+八、开发测试
+- [ ] https://github.com/yosriady/contracts-starter
+- [ ] https://github.com/jTanG0506/smart-contract-engineer
 
 ## 04-Web3黑客事件
 
