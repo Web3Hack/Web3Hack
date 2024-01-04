@@ -1,6 +1,6 @@
 # Web3Hack
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月3日。作者：[0e0w](https://github.com/0e0w)
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月4日。作者：[0e0w](https://github.com/0e0w)
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3开发语言](https://github.com/Web3Hack/Web3Hack#02-Web3%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
@@ -51,6 +51,9 @@
 - [ ] https://bitcointalk.org
 - [ ] https://www.learnblockchain.cn
 - [ ] https://www.wtf.academy
+- [ ] https://ethresear.ch
+- [ ] https://www.smartcontractresearch.org
+- [ ] https://ethereum-magicians.org
 
 六、学术论文
 
@@ -122,20 +125,40 @@
 - [ ] https://xz.aliyun.com/t/12986
 - [ ] https://github.com/VenusProtocol/venus-protocol
 - [ ] https://www.yun88.com/product/2599.html
+- [ ] [如何成为一名智能合约审计安全研究员，学习路线和必备网站](https://mp.weixin.qq.com/s/p15ts8zK78rJpPot8iSLnQ)
+- [ ] [How to become a smart contract auditor](https://telegra.ph/Pel-Ada-Del-Astra-Smart-Contract-Auditor-Pathway-05-07)
+- [ ] https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
+- [ ] [Working in Web3: The Handbook](https://smsunarto.notion.site/smsunarto/Working-in-Web3-The-Handbook-22d66a8608da4e9a8887a7f22170a940)
+- [ ] https://github.com/spearbit/portfolio
+- [ ] https://www.w3bs3c.com
 
 ## 02-Web3开发语言
 
 一、学习资源
+- [ ] Solidity语言
+- [ ] Move语言
 
 二、视频教程
 - [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
 
 二、知名框架
+- [ ] https://library.dedaub.com/
 
 四、开源项目
 - [ ] https://github.com/ConsenSys/Tokens
 
-四、安全开发
+五、安全开发
+- [ ] https://github.com/transmissions11/solcurity
+
+六、开发测试
+- [ ] https://github.com/yosriady/contracts-starter
+- [ ] https://github.com/jTanG0506/smart-contract-engineer
+- [ ] https://github.com/OffcierCia/DeFi-Developer-Road-Map
+
+九、其他资源
+- [ ] https://cryptozombies.io/
+- [ ] https://app.intropia.io/
+- [ ] https://www.euler.finance/
 
 ## 03-Web3安全研究
 
@@ -163,12 +186,33 @@
 - [ ] https://github.com/0xsomnus/Solidity-DevSecOps-Standard
 - [ ] https://github.com/sigp/solidity-security-blog
 - [ ] https://hacken.io/discover/dapp-security-guide/
+- [ ] [intro-security-hacking-smart-contracts-ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
+- [ ] https://github.com/0xsanny/solsec
+- [ ] https://cmichel.io/how-to-become-a-smart-contract-auditor
 
 二、学习视频
 - [ ] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
 - [ ] [Smart Contract Security and Auditing 101](https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s)@Chainlink
 
 三、漏洞类型
+- [ ] https://solidity-by-example.org/
+- [ ] https://github.com/Quillhash/Solidity-Attack-Vectors
+- [ ] https://github.com/kadenzipfel/smart-contract-vulnerabilities
+- [ ] https://github.com/sirhashalot/SCV-List
+- [ ] https://github.com/xf97/JiuZhou
+- [ ] https://swcregistry.io/
+- [ ] https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns
+- [ ] https://github.com/securing/SCSVS
+- [ ] https://github.com/felix0888/fallback-attack
+- [ ] https://blog.openzeppelin.com/follow-this-quality-checklist-before-an-audit-8cc6a0e44845/
+- [ ] https://consensys.github.io/smart-contract-best-practices/
+- [ ] https://github.com/Rari-Capital/solcurity
+- [ ] https://github.com/cryptofinlabs/audit-checklist
+- [ ] https://securing.github.io/SCSVS
+- [ ] https://github.com/nascentxyz/simple-security-toolkit#readme
+- [ ] https://bowtiedisland.com/how-to-read-a-smart-contract-audit-report
+- [ ] https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare
+- [ ] https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract/8593#8593
 
 四、审计标准
 - [ ] https://swcregistry.io
@@ -185,7 +229,7 @@
 五、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
 - [ ] Smart Contracts、Blockchain、DApps 
-- [x] [Certik Audit Reports]()
+- [x] https://solodit.xyz/
 - [x] [Runtime Verification Audit Reports](https://github.com/runtimeverification/publications)
 - [x] [AuditBlock Audit Reports](https://github.com/AuditBlock/AuditBlock_Reports_V1.0)
 - [x] [Beosin Audit Reports](https://www.beosin.com)
@@ -232,6 +276,9 @@
 - [ ] https://docs.hatom.com/getting-started/security/security-reports
 - [ ] https://docs.babyswap.finance/audits
 - [ ] https://de.fi/audit-database
+- [ ] https://blog.openzeppelin.com/tag/security-audits
+- [ ] https://consensys.io/diligence/audits/
+- [ ] https://github.com/sigp/public-audits
 
 六、审计工具
 - [ ] https://github.com/fuzzland/ityfuzz
@@ -248,6 +295,10 @@
 - [ ] https://github.com/Consensys
 - [ ] https://github.com/FuzzingLabs/octopus
 - [ ] https://github.com/0xsha/ChainWalker
+- [ ] https://github.com/crytic/slither
+- [ ] https://github.com/crytic/echidna
+- [ ] https://github.com/nascentxyz/pyrometer
+- [ ] https://mythx.io/
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 七、漏洞赏金
@@ -257,9 +308,16 @@
 - [ ] https://hackenproof.com
 - [ ] https://github.com/0xJuancito/audits
 
-八、开发测试
-- [ ] https://github.com/yosriady/contracts-starter
-- [ ] https://github.com/jTanG0506/smart-contract-engineer
+八、漏洞复现
+- [ ] https://github.com/blockthreat/blocksec-ctfs
+
+九、其他资源
+- [ ] https://mp.weixin.qq.com/s/Q8PtmUUAOo7XIV3BY5ycXA
+- [ ] https://github.com/emilianobonassi/security-toolkit
+- [ ] https://blog.chain.link/defi-security-best-practices/
+- [ ] https://github.com/secureum/DeFi-Security-Summit-Stanford
+- [ ] https://github.com/OriginProtocol/security
+- [ ] https://start.me/p/QRg5ad/officercia
 
 ## 04-Web3黑客事件
 
@@ -267,6 +325,9 @@
 - https://hacked.slowmist.io/zh/
 
 二、公开事件
+
+九、黑客事件
+- https://rekt.news/zh/
 
 ## 05-Web3冷热钱包
 
@@ -288,8 +349,8 @@
 - 欧易：https://www.okx.com
 - https://www.bitget.com
 
-二、安全公司
-- [ ] Certik：https://www.certik.com
+二、安全审计公司
+- [x] Certik：https://www.certik.com
 - [x] Beosin：https://www.beosin.com
 - [ ] 慢雾科技：https://slowmist.io
 - [ ] 零时科技：https://www.noneage.com
@@ -315,6 +376,7 @@
 - [ ] https://de.fi/
 - [ ] https://github.com/HashEx
 - [ ] https://github.com/sigp
+- [ ] https://www.movebit.xyz
 - [ ] https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security
 
 三、Web3岗位
@@ -344,23 +406,24 @@
 - [ ] https://parax.ai/
 
 四、其他平台
-- https://www.maskex.com/
+- [ ] https://www.maskex.com/
 
 ## 07-Web3参考连接
 
-- https://github.com/xiaolai
-- https://twitter.com/sunyuchentron
-- https://twitter.com/justinsuntron
-- https://github.com/TechRate
-- https://github.com/Quillhash
-- https://github.com/coinscope-co
-- https://github.com/Tech-Audit
-- https://github.com/SpyWolfNetwork
-- https://github.com/AuditBlock
-- https://github.com/Hexens
-- https://github.com/peckshield
-- https://github.com/chainflag
-- https://github.com/yosriady
-- https://github.com/red4sec
-- https://github.com/0xJuancito
-- https://github.com/NoneAge
+- [ ] https://github.com/xiaolai
+- [ ] https://twitter.com/sunyuchentron
+- [ ] https://twitter.com/justinsuntron
+- [ ] https://github.com/TechRate
+- [ ] https://github.com/Quillhash
+- [ ] https://github.com/coinscope-co
+- [ ] https://github.com/Tech-Audit
+- [ ] https://github.com/SpyWolfNetwork
+- [ ] https://github.com/AuditBlock
+- [ ] https://github.com/Hexens
+- [ ] https://github.com/peckshield
+- [ ] https://github.com/chainflag
+- [ ] https://github.com/yosriady
+- [ ] https://github.com/red4sec
+- [ ] https://github.com/0xJuancito
+- [ ] https://github.com/NoneAge
+- [ ] https://github.com/OffcierCia
