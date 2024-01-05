@@ -1,6 +1,10 @@
 # Web3Hack
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月4日。作者：[0e0w](https://github.com/0e0w)
+![Web3Hack](https://socialify.git.ci/Web3Hack/Web3Hack/image?description=0&descriptionEditable=%20&font=Bitter&forks=1&issues=1&name=1&owner=0&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
+本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。学习区块链安全，重启宇宙！作者：[0e0w](https://github.com/0e0w)
+
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月5日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3开发语言](https://github.com/Web3Hack/Web3Hack#02-Web3%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
@@ -57,12 +61,23 @@
 
 六、学术论文
 
-七、地址查询
+七、年度报告
+
+- 2023
+
+- [ ] [慢雾出品 | 2023 区块链安全与反洗钱年度报告](https://www.slowmist.com/report/2023-Blockchain-Security-and-AML-Annual-Report(CN).pdf)
+- [ ] [CertiK发布《Hack3d：2023年度Web3.0安全报告》](https://mp.weixin.qq.com/s/Vu8qIcLrr4r-H7TiaZujzA)
+- [ ] [Beosin重磅年报 | 2023 Web3区块链安全态势、反洗钱分析回顾以及加密行业重点监管政策总结](https://mp.weixin.qq.com/s/GJKB0pfps2OhpxdZF1qbdA)
+
+- 2022
+
+八、地址查询
+
 - [ ] https://etherscan.io
 - [ ] https://bscscan.com
 - [ ] https://www.oklink.com
 
-八、其他资源
+九、其他资源
 - [ ] 《[黑手册(DarkHandBook)](https://github.com/evilcos/darkhandbook)》@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
 - [ ] https://techflowpost.substack.com/p/web3
@@ -233,6 +248,7 @@
 - [x] [Runtime Verification Audit Reports](https://github.com/runtimeverification/publications)
 - [x] [AuditBlock Audit Reports](https://github.com/AuditBlock/AuditBlock_Reports_V1.0)
 - [x] [Beosin Audit Reports](https://www.beosin.com)
+- [x] https://github.com/peckshield/publications
 - [ ] https://github.com/TechRate/Smart-Contract-Audits
 - [ ] https://github.com/Quillhash/QuillAudit_Reports
 - [ ] https://github.com/coinscope-co/audits
@@ -243,7 +259,6 @@
 - [ ] https://github.com/zaryab2000/Smart-Contracts_Audit_Reports
 - [ ] https://github.com/CrackenTechAudit/Reports
 - [x] https://github.com/HashEx/public_audits
-- [x] https://github.com/peckshield/publications
 - [ ] https://github.com/zokyo-sec/audit-reports
 - [ ] https://github.com/MotechAudit/Audit-Certificate
 - [ ] https://github.com/MotechAudit/Smart-Contract-Audits
@@ -357,6 +372,7 @@
 - [ ] 成都链安：https://www.lianantech.com
 - [ ] 北京链安：https://safeis.cn
 - [ ] 知道创宇：https://www.knownsec.com
+- [ ] 长亭科技：https://www.chaitin.cn/zh/blockchain
 - [ ] https://vatin.io
 - [ ] https://hexens.io
 - [ ] http://armorslab.com
@@ -427,3 +443,5 @@
 - [ ] https://github.com/0xJuancito
 - [ ] https://github.com/NoneAge
 - [ ] https://github.com/OffcierCia
+
+[![Stargazers over time](https://starchart.cc//Web3Hack/Web3Hack.svg)](https://starchart.cc/Web3Hack/Web3Hack)
