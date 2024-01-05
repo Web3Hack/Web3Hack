@@ -50,6 +50,7 @@
 - [ ] [http://course.intogateway.com](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
 - [ ] [区块链安全实战修炼营](https://learnblockchain.cn/course/38)@BlockSec
 - [ ] [《区块链技术与应用》](https://www.bilibili.com/video/av37065233/)@北大肖臻
+- [ ] [《区块链之新》](https://www.bilibili.com/bangumi/play/ep290332)@三橙传媒
 
 五、论坛博客
 - [ ] https://bitcointalk.org
@@ -94,11 +95,9 @@
 - [ ] https://github.com/shakenetwork/blockchain-security-awesome
 - [ ] https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec
 - [ ] https://github.com/DessertHeart/Dive-Into-Blockchain
-- [ ] https://github.com/Aloneposix/Awesome-Blockchain-Security
 - [ ] https://github.com/Tangent-Wei/crypto_info
 - [ ] https://github.com/Lianantech/ETH-Security
 - [ ] https://github.com/Mithrilwoodrat/block-sec-data
-- [ ] https://github.com/BronnyWang/Blockchain-CheckList
 - [ ] https://github.com/Ershu1/-Sec
 - [ ] https://github.com/Lianantech/Exchange-security-issues
 - [ ] https://github.com/Lianantech/Contracts-Security
@@ -146,6 +145,19 @@
 - [ ] [Working in Web3: The Handbook](https://smsunarto.notion.site/smsunarto/Working-in-Web3-The-Handbook-22d66a8608da4e9a8887a7f22170a940)
 - [ ] https://github.com/spearbit/portfolio
 - [ ] https://www.w3bs3c.com
+- [ ] https://github.com/chaozh/awesome-blockchain-cn
+- [ ] https://github.com/Eternaldeath/blockchainHome
+- [ ] https://github.com/Dapp-Learning-DAO/Dapp-Learning
+- [ ] https://github.com/Tangent-Wei/crypto_info
+- [ ] https://github.com/lixiaoyu77/Web3.0-club
+- [ ] https://github.com/xianfeng92/Love-Ethereum
+- [ ] https://github.com/tonycai/The-Journal-of-Blockchain
+- [ ] https://github.com/Blockchain-zju/blockchainer-roadmap
+- [ ] https://gist.github.com/icexyr/888ffa177acb4256a38131d2e38b727f
+- [ ] https://github.com/fltenwall/web3-awesome
+- [ ] https://github.com/confucianzuoyuan/blockchain-tutorial
+- [ ] https://github.com/chaseSpace/learn_blockchain
+- [ ] https://github.com/cancerts/study-blockchain-referrence
 
 ## 02-Web3开发语言
 
@@ -164,6 +176,7 @@
 
 五、安全开发
 - [ ] https://github.com/transmissions11/solcurity
+- [ ] https://github.com/Consensys/smart-contract-best-practices
 
 六、开发测试
 - [ ] https://github.com/yosriady/contracts-starter
@@ -180,6 +193,8 @@
 一、学习资源
 - [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
+- [ ] [区块链安全入门笔记](https://github.com/slowmist/Knowledge-Base/tree/master/blockchain_security_study_notes)@慢雾
+- [ ] [区块链常见漏洞列表](https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md)@慢雾
 - [ ] https://chinadefi.com/2293.html
 - [ ] https://chirpset.com/t/topic/448
 - [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)
@@ -237,7 +252,6 @@
 - [ ] https://github.com/cryptofinlabs/audit-checklist
 - [ ] https://ethereum.org/en/developers/tutorials/secure-development-workflow
 - [ ] https://securing.github.io/SCSVS/
-- [ ] https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
 - [ ] https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/
 - [ ] https://github.com/OpenZeppelin/openzeppelin-contracts
 
@@ -325,6 +339,8 @@
 
 八、漏洞复现
 - [ ] https://github.com/blockthreat/blocksec-ctfs
+- [ ] https://github.com/Ershu1/-Sec
+- [ ] https://ethernaut.zeppelin.solutions
 
 九、其他资源
 - [ ] https://mp.weixin.qq.com/s/Q8PtmUUAOo7XIV3BY5ycXA
@@ -333,6 +349,11 @@
 - [ ] https://github.com/secureum/DeFi-Security-Summit-Stanford
 - [ ] https://github.com/OriginProtocol/security
 - [ ] https://start.me/p/QRg5ad/officercia
+- [ ] https://github.com/BronnyWang/Blockchain-CheckList
+- [ ] https://github.com/Al1ex/BlockChainSec
+- [ ] https://github.com/Aloneposix/Awesome-Blockchain-Security
+- [ ] https://github.com/euphrat1ca/Security-List/blob/master/wiki_Web3Tech.md
+- [ ] https://github.com/Lianantech/EOS-Security
 
 ## 04-Web3黑客事件
 
