@@ -4,11 +4,11 @@
 
 本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。学习区块链安全，重启宇宙！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月5日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月6日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-- [02-Web3开发语言](https://github.com/Web3Hack/Web3Hack#02-Web3%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80)
-- [03-Web3安全研究](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6)
+- [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
+- [03-Web3安全审计](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1)
 - [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
 - [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
 - [06-Web3公司平台](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
@@ -63,17 +63,12 @@
 六、学术论文
 
 七、年度报告
-
-- 2023
-
 - [ ] [慢雾出品 | 2023 区块链安全与反洗钱年度报告](https://www.slowmist.com/report/2023-Blockchain-Security-and-AML-Annual-Report(CN).pdf)
 - [ ] [CertiK发布《Hack3d：2023年度Web3.0安全报告》](https://mp.weixin.qq.com/s/Vu8qIcLrr4r-H7TiaZujzA)
 - [ ] [Beosin重磅年报 | 2023 Web3区块链安全态势、反洗钱分析回顾以及加密行业重点监管政策总结](https://mp.weixin.qq.com/s/GJKB0pfps2OhpxdZF1qbdA)
 
-- 2022
 
 八、地址查询
-
 - [ ] https://etherscan.io
 - [ ] https://bscscan.com
 - [ ] https://www.oklink.com
@@ -159,7 +154,9 @@
 - [ ] https://github.com/chaseSpace/learn_blockchain
 - [ ] https://github.com/cancerts/study-blockchain-referrence
 
-## 02-Web3开发语言
+## 02-Web3智能合约
+
+- https://github.com/LearnSolidity
 
 一、学习资源
 - [ ] Solidity语言
@@ -188,7 +185,7 @@
 - [ ] https://app.intropia.io/
 - [ ] https://www.euler.finance/
 
-## 03-Web3安全研究
+## 03-Web3安全审计
 
 一、学习资源
 - [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
@@ -219,6 +216,7 @@
 - [ ] [intro-security-hacking-smart-contracts-ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 - [ ] https://github.com/0xsanny/solsec
 - [ ] https://cmichel.io/how-to-become-a-smart-contract-auditor
+- [ ] [《智能合约安全分析和审计指南》]()@王艺卓等
 
 二、学习视频
 - [ ] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
