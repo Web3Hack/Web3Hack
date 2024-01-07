@@ -166,6 +166,7 @@
 ## 02-Web3智能合约
 
 - https://github.com/LearnSolidity
+- https://github.com/topics/solidity
 
 一、学习资源
 - [ ] Solidity语言、Move语言
@@ -193,6 +194,9 @@
 - [ ] https://github.com/sc-forks/solidity-coverage
 - [ ] https://github.com/pubkey/eth-crypto
 - [ ] https://github.com/gakonst/solidity-book
+- [ ] https://github.com/dukedaily/solidity-hardhat-kit
+- [ ] https://github.com/WeBankBlockchain/SmartDev-Contract
+- [ ] https://github.com/luzhenqian/web3-examples
 
 二、视频教程
 - [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
@@ -230,6 +234,8 @@
 - [ ] https://github.com/Arachnid/solidity-stringutils
 - [ ] https://github.com/0xisk/awesome-solidity-gas-optimization
 - [ ] https://github.com/raineorshine/solgraph
+- [ ] https://github.com/tiangong3624749/LearnMove
+- [ ] https://github.com/Fankouzu/smart-contract
 
 ## 03-Web3安全审计
 
@@ -376,8 +382,9 @@
 - [ ] https://github.com/0xsha/ChainWalker
 - [ ] https://github.com/crytic/echidna
 - [ ] https://github.com/nascentxyz/pyrometer
-- [ ] https://mythx.io/
+- [ ] https://mythx.io
 - [ ] https://github.com/Jon-Becker/heimdall-rs
+- [ ] https://0x0.ai
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 七、漏洞复现
