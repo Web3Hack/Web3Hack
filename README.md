@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。学习区块链安全，重启宇宙！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月6日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月7日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
@@ -119,9 +119,6 @@
 - [ ] https://proxies.yacademy.dev/
 - [ ] https://github.com/OpenZeppelin/ethernaut
 - [ ] https://wiki.learnblockchain.cn/
-- [ ] https://github.com/ethereum/solidity
-- [ ] https://github.com/AmazingAng/WTF-Solidity
-- [ ] https://github.com/dukedaily/solidity-expert
 - [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
 - [ ] https://blog.csdn.net/JinxMow/article/details/103400817
 - [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
@@ -153,20 +150,58 @@
 - [ ] https://github.com/confucianzuoyuan/blockchain-tutorial
 - [ ] https://github.com/chaseSpace/learn_blockchain
 - [ ] https://github.com/cancerts/study-blockchain-referrence
+- [ ] https://github.com/trufflesuite/truffle
+- [ ] https://github.com/smartcontractkit/chainlink
+- [ ] https://github.com/web3j/web3j
+- [ ] https://github.com/FrancescoXX/free-Web3-resources
+- [ ] https://github.com/FISCO-BCOS/FISCO-BCOS
+- [ ] https://github.com/CryptozombiesHQ/cryptozombies-lesson-code
+- [ ] https://github.com/tintinweb/smart-contract-sanctuary
+- [ ] https://github.com/Synthetixio/synthetix
+- [ ] https://github.com/Consensys/surya
+- [ ] https://github.com/thirdweb-dev/contracts
+- [ ] https://github.com/superfluid-finance/protocol-monorepo
+- [ ] https://github.com/bekatom/awesome-ethereum
 
 ## 02-Web3智能合约
 
 - https://github.com/LearnSolidity
 
 一、学习资源
-- [ ] Solidity语言
-- [ ] Move语言
+- [ ] Solidity语言、Move语言
+- [ ] https://github.com/bkrem/awesome-solidity
+- [ ] https://github.com/ethereum/solidity
+- [ ] https://github.com/smartcontractkit/full-blockchain-solidity-course-js
+- [ ] https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+- [ ] https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- [ ] https://github.com/AmazingAng/WTF-Solidity
+- [ ] https://github.com/scaffold-eth/scaffold-eth
+- [ ] https://github.com/WTFAcademy/WTF-Ethers
+- [ ] https://github.com/willitscale/learning-solidity
+- [ ] https://github.com/PaulRBerg/hardhat-template
+- [ ] https://github.com/Vectorized/solady
+- [ ] https://github.com/safe-global/safe-contracts
+- [ ] https://github.com/miguelmota/ethereum-development-with-go-book
+- [ ] https://github.com/manojpramesh/solidity-cheatsheet
+- [ ] https://github.com/dcbuild3r/blockchain-development-guide
+- [ ] https://github.com/TokenMarketNet/smart-contracts
+- [ ] https://github.com/wormhole-foundation/wormhole
+- [ ] https://github.com/dukedaily/solidity-expert
+- [ ] https://github.com/frankiefab100/Blockchain-Development-Resources
+- [ ] https://github.com/cyrusadkisson/solidity-baby-steps
+- [ ] https://github.com/LayerZero-Labs/solidity-examples
+- [ ] https://github.com/sc-forks/solidity-coverage
+- [ ] https://github.com/pubkey/eth-crypto
+- [ ] https://github.com/gakonst/solidity-book
 
 二、视频教程
 - [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
+- [ ] [《Solidity 高级程序设计》](https://github.com/anbang/professional-solidity)@朱安邦
 
 二、知名框架
 - [ ] https://library.dedaub.com/
+- [ ] https://github.com/foundry-rs/foundry
+- [ ] https://github.com/NomicFoundation/hardhat
 
 四、开源项目
 - [ ] https://github.com/ConsenSys/Tokens
@@ -174,16 +209,27 @@
 五、安全开发
 - [ ] https://github.com/transmissions11/solcurity
 - [ ] https://github.com/Consensys/smart-contract-best-practices
+- [ ] https://github.com/OpenZeppelin/openzeppelin-contracts
+- [ ] https://github.com/fravoll/solidity-patterns
 
-六、开发测试
+六、测试框架
 - [ ] https://github.com/yosriady/contracts-starter
 - [ ] https://github.com/jTanG0506/smart-contract-engineer
-- [ ] https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- [ ] https://github.com/eth-brownie/brownie
 
 九、其他资源
 - [ ] https://cryptozombies.io/
 - [ ] https://app.intropia.io/
 - [ ] https://www.euler.finance/
+- [ ] https://github.com/jklepatch/eattheblocks
+- [ ] https://github.com/adrianhajdin/project_web3.0
+- [ ] https://github.com/ethereum/remix-ide
+- [ ] https://github.com/crytic/properties
+- [ ] https://github.com/redacademy/vue-ethereum-ipfs
+- [ ] https://github.com/hyperledger/solang
+- [ ] https://github.com/Arachnid/solidity-stringutils
+- [ ] https://github.com/0xisk/awesome-solidity-gas-optimization
+- [ ] https://github.com/raineorshine/solgraph
 
 ## 03-Web3安全审计
 
@@ -217,6 +263,7 @@
 - [ ] https://github.com/0xsanny/solsec
 - [ ] https://cmichel.io/how-to-become-a-smart-contract-auditor
 - [ ] [《智能合约安全分析和审计指南》]()@王艺卓等
+- [ ] https://github.com/x676f64/secureum-mind_map
 
 二、学习视频
 - [ ] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
@@ -225,7 +272,7 @@
 三、漏洞类型
 - [ ] https://solidity-by-example.org/
 - [ ] https://github.com/Quillhash/Solidity-Attack-Vectors
-- [ ] https://github.com/kadenzipfel/smart-contract-vulnerabilities
+- [x] https://github.com/kadenzipfel/smart-contract-vulnerabilities
 - [ ] https://github.com/sirhashalot/SCV-List
 - [ ] https://github.com/xf97/JiuZhou
 - [ ] https://swcregistry.io/
@@ -237,10 +284,11 @@
 - [ ] https://github.com/Rari-Capital/solcurity
 - [ ] https://github.com/cryptofinlabs/audit-checklist
 - [ ] https://securing.github.io/SCSVS
-- [ ] https://github.com/nascentxyz/simple-security-toolkit#readme
+- [ ] https://github.com/nascentxyz/simple-security-toolkit
 - [ ] https://bowtiedisland.com/how-to-read-a-smart-contract-audit-report
 - [ ] https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare
-- [ ] https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract/8593#8593
+- [ ] [security-review-checklist-for-a-smart-contract/8593#8593](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract/8593#8593)
+- [x] https://github.com/pcaversaccio/reentrancy-attacks
 
 四、审计标准
 - [ ] https://swcregistry.io
@@ -251,7 +299,7 @@
 - [ ] https://ethereum.org/en/developers/tutorials/secure-development-workflow
 - [ ] https://securing.github.io/SCSVS/
 - [ ] https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/
-- [ ] https://github.com/OpenZeppelin/openzeppelin-contracts
+- [x] https://github.com/SunWeb3Sec/DeFiVulnLabs
 
 五、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
@@ -308,7 +356,12 @@
 - [ ] https://github.com/sigp/public-audits
 
 六、审计工具
+- [x] https://github.com/crytic/slither
+- [x] https://github.com/Consensys/mythril
+- [x] https://github.com/LoRexxar/Kunlun-M
 - [ ] https://github.com/fuzzland/ityfuzz
+- [ ] https://github.com/protofire/solhint
+- [x] https://github.com/duaraghav8/Ethlint
 - [ ] https://fuzz.land/
 - [ ] https://github.com/trailofbits/eth-security-toolbox
 - [ ] https://github.com/tandil-dev/forsage-audit
@@ -319,28 +372,32 @@
 - [ ] https://github.com/byterocket/auditSign
 - [ ] https://github.com/kb0304/zimedar-nagrik
 - [ ] https://github.com/mmsaki/dog-registry-blockchain-app
-- [ ] https://github.com/Consensys
 - [ ] https://github.com/FuzzingLabs/octopus
 - [ ] https://github.com/0xsha/ChainWalker
-- [ ] https://github.com/crytic/slither
 - [ ] https://github.com/crytic/echidna
 - [ ] https://github.com/nascentxyz/pyrometer
 - [ ] https://mythx.io/
+- [ ] https://github.com/Jon-Becker/heimdall-rs
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
-七、漏洞赏金
+七、漏洞复现
+- [ ] https://github.com/blockthreat/blocksec-ctfs
+- [ ] https://github.com/Ershu1/-Sec
+- [ ] https://ethernaut.zeppelin.solutions
+- [ ] https://github.com/crytic/not-so-smart-contracts
+- [ ] https://github.com/OpenZeppelin/ethernaut
+- [ ] https://blog.sigmaprime.io/solidity-security.html
+
+八、漏洞赏金
+
 - [ ] https://bugrap.io
 - [ ] https://code4rena.com
 - [ ] https://immunefi.com
 - [ ] https://hackenproof.com
 - [ ] https://github.com/0xJuancito/audits
 
-八、漏洞复现
-- [ ] https://github.com/blockthreat/blocksec-ctfs
-- [ ] https://github.com/Ershu1/-Sec
-- [ ] https://ethernaut.zeppelin.solutions
-
 九、其他资源
+
 - [ ] https://mp.weixin.qq.com/s/Q8PtmUUAOo7XIV3BY5ycXA
 - [ ] https://github.com/emilianobonassi/security-toolkit
 - [ ] https://blog.chain.link/defi-security-best-practices/
@@ -352,6 +409,7 @@
 - [ ] https://github.com/Aloneposix/Awesome-Blockchain-Security
 - [ ] https://github.com/euphrat1ca/Security-List/blob/master/wiki_Web3Tech.md
 - [ ] https://github.com/Lianantech/EOS-Security
+- [ ] https://github.com/SunWeb3Sec/DeFiHackLabs
 
 ## 04-Web3黑客事件
 
@@ -450,6 +508,7 @@
 - [ ] https://twitter.com/justinsuntron
 - [ ] https://github.com/TechRate
 - [ ] https://github.com/Quillhash
+- [ ] https://github.com/Consensys
 - [ ] https://github.com/coinscope-co
 - [ ] https://github.com/Tech-Audit
 - [ ] https://github.com/SpyWolfNetwork
@@ -462,5 +521,6 @@
 - [ ] https://github.com/0xJuancito
 - [ ] https://github.com/NoneAge
 - [ ] https://github.com/OffcierCia
+- [ ] https://github.com/pcaversaccio
 
 [![Stargazers over time](https://starchart.cc//Web3Hack/Web3Hack.svg)](https://starchart.cc/Web3Hack/Web3Hack)
