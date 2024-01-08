@@ -2,9 +2,9 @@
 
 ![Web3Hack](https://socialify.git.ci/Web3Hack/Web3Hack/image?description=0&descriptionEditable=%20&font=Bitter&forks=1&issues=1&name=1&owner=0&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
-本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。学习区块链安全，重启宇宙！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。深入学习区块链安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月7日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月8日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
@@ -18,7 +18,9 @@
 
 一、政策法规
 
-二、书籍资源
+二、优秀资源
+- [x] [《比特币白皮书》](https://bitcoin.org/bitcoin.pdf)@Satoshi Nakamoto
+- [x] [《以太坊白皮书》](https://ethereum.org/zh/whitepaper/)@Vitalik Buterin
 - [x] [《精通区块链编程》](https://item.jd.com/12620946.html)@郭理靖等译
 - [x] [《精通以太坊》](https://item.jd.com/12522707.html)@喻勇等译
 - [ ] [《Mastering Ethereum》](https://github.com/ethereumbook/ethereumbook)@wbnns
@@ -38,21 +40,18 @@
 - [ ] https://yeasy.gitbook.io/blockchain_guide
 - [ ] https://decert.me/tutorials
 
-三、优秀资源
-- [ ] [《比特币白皮书》](https://bitcoin.org/bitcoin.pdf)@Satoshi Nakamoto
-- [ ] [《以太坊白皮书》](https://ethereum.org/zh/whitepaper/)@Vitalik Buterin
 - [ ] https://zh.wikipedia.org/zh-cn/Web3
 
-四、视频教程
+三、视频教程
 - [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
 - [ ] https://www.bilibili.com/video/BV1Uu4y1m7WK
 - [ ] https://www.youtube.com/watch?v=DRZogmD647U
 - [ ] [http://course.intogateway.com](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
-- [ ] [区块链安全实战修炼营](https://learnblockchain.cn/course/38)@BlockSec
+- [ ] [《区块链安全实战修炼营》](https://learnblockchain.cn/course/38)@BlockSec
 - [ ] [《区块链技术与应用》](https://www.bilibili.com/video/av37065233/)@北大肖臻
 - [ ] [《区块链之新》](https://www.bilibili.com/bangumi/play/ep290332)@三橙传媒
 
-五、论坛博客
+四、论坛博客
 - [ ] https://bitcointalk.org
 - [ ] https://www.learnblockchain.cn
 - [ ] https://www.wtf.academy
@@ -60,21 +59,21 @@
 - [ ] https://www.smartcontractresearch.org
 - [ ] https://ethereum-magicians.org
 
-六、学术论文
+五、学术论文
 
-七、年度报告
+六、年度报告
 - [ ] [慢雾出品 | 2023 区块链安全与反洗钱年度报告](https://www.slowmist.com/report/2023-Blockchain-Security-and-AML-Annual-Report(CN).pdf)
 - [ ] [CertiK发布《Hack3d：2023年度Web3.0安全报告》](https://mp.weixin.qq.com/s/Vu8qIcLrr4r-H7TiaZujzA)
 - [ ] [Beosin重磅年报 | 2023 Web3区块链安全态势、反洗钱分析回顾以及加密行业重点监管政策总结](https://mp.weixin.qq.com/s/GJKB0pfps2OhpxdZF1qbdA)
 
 
-八、地址查询
+七、地址查询
 - [ ] https://etherscan.io
 - [ ] https://bscscan.com
 - [ ] https://www.oklink.com
 
-九、其他资源
-- [ ] 《[黑手册(DarkHandBook)](https://github.com/evilcos/darkhandbook)》@慢雾
+八、其他资源
+- [ ] [《黑手册(DarkHandBook)》](https://github.com/evilcos/darkhandbook)@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
 - [ ] https://techflowpost.substack.com/p/web3
 - [ ] https://zhuanlan.zhihu.com/p/525119897
@@ -93,10 +92,8 @@
 - [ ] https://github.com/Tangent-Wei/crypto_info
 - [ ] https://github.com/Lianantech/ETH-Security
 - [ ] https://github.com/Mithrilwoodrat/block-sec-data
-- [ ] https://github.com/Ershu1/-Sec
 - [ ] https://github.com/Lianantech/Exchange-security-issues
 - [ ] https://github.com/Lianantech/Contracts-Security
-- [ ] https://github.com/todo1024/2351
 - [ ] https://github.com/zhengruice/BlockChainDemo
 - [ ] https://mp.weixin.qq.com/template/article/1690024990/index.html
 - [ ] https://github.com/Quillhash/Web3-Security-Tools
@@ -162,6 +159,8 @@
 - [ ] https://github.com/thirdweb-dev/contracts
 - [ ] https://github.com/superfluid-finance/protocol-monorepo
 - [ ] https://github.com/bekatom/awesome-ethereum
+- [ ] https://web3wiki.site
+- [ ] https://github.com/gochain/web3
 
 ## 02-Web3智能合约
 
@@ -197,6 +196,8 @@
 - [ ] https://github.com/dukedaily/solidity-hardhat-kit
 - [ ] https://github.com/WeBankBlockchain/SmartDev-Contract
 - [ ] https://github.com/luzhenqian/web3-examples
+- [ ] https://binschool.app/solidity-basic/solidity-basic-index.html
+- [ ] https://binschool.app/solidity-advanced/solidity-advanced-index.html
 
 二、视频教程
 - [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
@@ -236,6 +237,7 @@
 - [ ] https://github.com/raineorshine/solgraph
 - [ ] https://github.com/tiangong3624749/LearnMove
 - [ ] https://github.com/Fankouzu/smart-contract
+- [ ] https://github.com/Web3-Club/solidity-by-example_Chinese
 
 ## 03-Web3安全审计
 
@@ -365,9 +367,10 @@
 - [x] https://github.com/crytic/slither
 - [x] https://github.com/Consensys/mythril
 - [x] https://github.com/LoRexxar/Kunlun-M
+- [x] https://github.com/duaraghav8/Ethlint
+- [x] https://github.com/crytic/echidna
 - [ ] https://github.com/fuzzland/ityfuzz
 - [ ] https://github.com/protofire/solhint
-- [x] https://github.com/duaraghav8/Ethlint
 - [ ] https://fuzz.land/
 - [ ] https://github.com/trailofbits/eth-security-toolbox
 - [ ] https://github.com/tandil-dev/forsage-audit
@@ -380,11 +383,12 @@
 - [ ] https://github.com/mmsaki/dog-registry-blockchain-app
 - [ ] https://github.com/FuzzingLabs/octopus
 - [ ] https://github.com/0xsha/ChainWalker
-- [ ] https://github.com/crytic/echidna
 - [ ] https://github.com/nascentxyz/pyrometer
 - [ ] https://mythx.io
 - [ ] https://github.com/Jon-Becker/heimdall-rs
 - [ ] https://0x0.ai
+- [ ] https://lightrains.com/blogs/solidity-static-analysis-tools
+- [ ] https://manticore.readthedocs.io
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 七、漏洞复现
@@ -417,8 +421,15 @@
 - [ ] https://github.com/euphrat1ca/Security-List/blob/master/wiki_Web3Tech.md
 - [ ] https://github.com/Lianantech/EOS-Security
 - [ ] https://github.com/SunWeb3Sec/DeFiHackLabs
+- [ ] https://ethereum.org/en/developers/docs/smart-contracts/security
+- [ ] https://consensys.io/blog/ethereum-smart-contract-security-recommendations
+- [ ] https://www.immunebytes.com/blog/getting-started-with-smart-contract-fuzzing
+- [ ] https://www.apriorit.com/dev-blog/578-blockchain-attack-vectors
+- [ ] https://blog.finxter.com/randomness-or-replicatedlogic-attack-on-smart-contracts
 
 ## 04-Web3黑客事件
+
+- https://github.com/Web3Hack/Events
 
 一、事件统计
 - https://hacked.slowmist.io/zh/
