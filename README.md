@@ -12,7 +12,8 @@
 - [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
 - [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
 - [06-Web3公司平台](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
-- [07-Web3参考连接](https://github.com/Web3Hack/Web3Hack#07-web3%E5%AE%9E%E7%9B%98%E4%BA%A4%E6%98%93)
+- [07-Web3货币交易](https://github.com/Web3Hack/Web3Hack#07-web3%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93)
+- [08-Web3参考致谢](https://github.com/Web3Hack/Web3Hack#08-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
 
 ## 01-Web3资源汇总
 
@@ -39,7 +40,6 @@
 - [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
 - [ ] https://yeasy.gitbook.io/blockchain_guide
 - [ ] https://decert.me/tutorials
-
 - [ ] https://zh.wikipedia.org/zh-cn/Web3
 
 三、视频教程
@@ -97,7 +97,6 @@
 - [ ] https://github.com/zhengruice/BlockChainDemo
 - [ ] https://mp.weixin.qq.com/template/article/1690024990/index.html
 - [ ] https://github.com/Quillhash/Web3-Security-Tools
-- [ ] https://github.com/Web3-Club
 - [ ] https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese
 - [ ] https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E6%9C%AC%E8%81%AA
 - [ ] https://www.odaily.news/post/5177927
@@ -400,7 +399,6 @@
 - [ ] https://blog.sigmaprime.io/solidity-security.html
 
 八、漏洞赏金
-
 - [ ] https://bugrap.io
 - [ ] https://code4rena.com
 - [ ] https://immunefi.com
@@ -408,7 +406,6 @@
 - [ ] https://github.com/0xJuancito/audits
 
 九、其他资源
-
 - [ ] https://mp.weixin.qq.com/s/Q8PtmUUAOo7XIV3BY5ycXA
 - [ ] https://github.com/emilianobonassi/security-toolkit
 - [ ] https://blog.chain.link/defi-security-best-practices/
@@ -519,7 +516,9 @@
 四、其他平台
 - [ ] https://www.maskex.com/
 
-## 07-Web3参考连接
+## 07-Web3货币交易
+
+## 08-Web3参考致谢
 
 - [ ] https://github.com/xiaolai
 - [ ] https://twitter.com/sunyuchentron
