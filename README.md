@@ -38,16 +38,14 @@
 - [ ] [《数字货币投资宝典》](https://item.jd.com/10048888184688.html)@欧立奇
 - [ ] [《区块链革命》](https://item.jd.com/12033804.html)@凯尔等译
 - [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
-- [ ] https://yeasy.gitbook.io/blockchain_guide
-- [ ] https://decert.me/tutorials
-- [ ] https://zh.wikipedia.org/zh-cn/Web3
+- [ ] [《区块链技术指南》](https://yeasy.gitbook.io/blockchain_guide)@杨保华等
+- [ ] [《Solidity 中文教程》](https://www.w3cschool.cn/solidity/)@w3cschool
 
 三、视频教程
 - [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
 - [ ] https://www.bilibili.com/video/BV1Uu4y1m7WK
 - [ ] https://www.youtube.com/watch?v=DRZogmD647U
 - [ ] [http://course.intogateway.com](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
-- [ ] [《区块链安全实战修炼营》](https://learnblockchain.cn/course/38)@BlockSec
 - [ ] [《区块链技术与应用》](https://www.bilibili.com/video/av37065233/)@北大肖臻
 - [ ] [《区块链之新》](https://www.bilibili.com/bangumi/play/ep290332)@三橙传媒
 
@@ -84,7 +82,6 @@
 - [ ] https://www.theblockbeats.info/news/43703
 - [ ] https://github.com/rebase-network/who-is-hiring
 - [ ] https://foresightnews.pro/job/detail/238
-- [ ] https://www.w3cschool.cn/solidity/
 - [ ] https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook
 - [ ] https://github.com/shakenetwork/blockchain-security-awesome
 - [ ] https://github.com/BlockchainSecBook/The-Hitchhiker-s-Guide-to-the-Blockchain-Sec
@@ -96,9 +93,7 @@
 - [ ] https://github.com/Lianantech/Contracts-Security
 - [ ] https://github.com/zhengruice/BlockChainDemo
 - [ ] https://mp.weixin.qq.com/template/article/1690024990/index.html
-- [ ] https://github.com/Quillhash/Web3-Security-Tools
 - [ ] https://github.com/Web3-Club/Blockchain-Developer-roadmap_Chinese
-- [ ] https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E6%9C%AC%E8%81%AA
 - [ ] https://www.odaily.news/post/5177927
 - [ ] https://github.com/WTFAcademy/WTF-ClosedSource
 - [ ] https://github.com/zzhsec/Web3.0-Security-RSS
@@ -119,15 +114,13 @@
 - [ ] https://blog.csdn.net/JinxMow/article/details/103400817
 - [ ] https://blog-blockchain.xyz/audit/open-source-audit-tools/index.html
 - [ ] https://xz.aliyun.com/t/4145
-- [ ] https://bloodzer0.github.io/ossa/code_audit/solitity/
-- [ ] https://github.com/0xisk/awesome-solidity-gas-optimization
+- [ ] https://bloodzer0.github.io/ossa/code_audit/solitity
 - [ ] https://github.com/0xisk/awesome-solidity-security
 - [ ] https://github.com/0xisk/awesome-solidity-projects
 - [ ] https://solidity-by-example.org
 - [ ] https://xz.aliyun.com/t/12986
 - [ ] https://github.com/VenusProtocol/venus-protocol
 - [ ] https://www.yun88.com/product/2599.html
-- [ ] [如何成为一名智能合约审计安全研究员，学习路线和必备网站](https://mp.weixin.qq.com/s/p15ts8zK78rJpPot8iSLnQ)
 - [ ] [How to become a smart contract auditor](https://telegra.ph/Pel-Ada-Del-Astra-Smart-Contract-Auditor-Pathway-05-07)
 - [ ] https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
 - [ ] [Working in Web3: The Handbook](https://smsunarto.notion.site/smsunarto/Working-in-Web3-The-Handbook-22d66a8608da4e9a8887a7f22170a940)
@@ -160,6 +153,7 @@
 - [ ] https://github.com/bekatom/awesome-ethereum
 - [ ] https://web3wiki.site
 - [ ] https://github.com/gochain/web3
+- [ ] https://decert.me/tutorials
 
 ## 02-Web3智能合约
 
@@ -245,9 +239,7 @@
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 - [ ] [区块链安全入门笔记](https://github.com/slowmist/Knowledge-Base/tree/master/blockchain_security_study_notes)@慢雾
 - [ ] [区块链常见漏洞列表](https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md)@慢雾
-- [ ] https://chinadefi.com/2293.html
-- [ ] https://chirpset.com/t/topic/448
-- [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)
+- [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)@零时科技
 - [ ] https://paper.seebug.org/1664/
 - [ ] [关于区块链智能合约安全漏洞类型连载分析](https://github.com/Lianantech/Security-Vulnerabilities-Analysis-Series)@链安
 - [ ] [以太坊智能合约审计CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList)@知道创宇
@@ -271,10 +263,13 @@
 - [ ] https://cmichel.io/how-to-become-a-smart-contract-auditor
 - [ ] [《智能合约安全分析和审计指南》]()@王艺卓等
 - [ ] https://github.com/x676f64/secureum-mind_map
+- [ ] https://chinadefi.com/2293.html
+- [ ] https://chirpset.com/t/topic/448
 
-二、学习视频
-- [ ] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
-- [ ] [Smart Contract Security and Auditing 101](https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s)@Chainlink
+二、视频教程
+- [x] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
+- [x] [Smart Contract Security and Auditing 101](https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s)@Chainlink
+- [ ] [《区块链安全实战修炼营》](https://learnblockchain.cn/course/38)@BlockSec
 
 三、漏洞类型
 - [ ] https://solidity-by-example.org/
@@ -307,6 +302,9 @@
 - [ ] https://securing.github.io/SCSVS/
 - [ ] https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/
 - [x] https://github.com/SunWeb3Sec/DeFiVulnLabs
+- [ ] https://consensys.github.io/smart-contract-best-practices/attacks
+- [x] https://github.com/tamjid0x01/SmartContracts-audit-checklist
+- [x] https://github.com/aviggiano/theauditorbook
 
 五、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
@@ -368,6 +366,7 @@
 - [x] https://github.com/LoRexxar/Kunlun-M
 - [x] https://github.com/duaraghav8/Ethlint
 - [x] https://github.com/crytic/echidna
+- [ ] https://github.com/smartdec/smartcheck
 - [ ] https://github.com/fuzzland/ityfuzz
 - [ ] https://github.com/protofire/solhint
 - [ ] https://fuzz.land/
@@ -388,6 +387,9 @@
 - [ ] https://0x0.ai
 - [ ] https://lightrains.com/blogs/solidity-static-analysis-tools
 - [ ] https://manticore.readthedocs.io
+- [x] https://github.com/Quillhash/Web3-Security-Tools
+- [ ] https://github.com/trailofbits/manticore
+- [ ] https://github.com/eth-sri/securify2
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 七、漏洞复现
@@ -423,6 +425,9 @@
 - [ ] https://www.immunebytes.com/blog/getting-started-with-smart-contract-fuzzing
 - [ ] https://www.apriorit.com/dev-blog/578-blockchain-attack-vectors
 - [ ] https://blog.finxter.com/randomness-or-replicatedlogic-attack-on-smart-contracts
+- [ ] [如何成为一名智能合约审计安全研究员，学习路线和必备网站](https://mp.weixin.qq.com/s/p15ts8zK78rJpPot8iSLnQ)
+- [ ] https://audit-hero.com/search-findings
+- [ ] https://solidityscan.com
 
 ## 04-Web3黑客事件
 
