@@ -26,20 +26,11 @@
 - [x] [《精通以太坊》](https://item.jd.com/12522707.html)@喻勇等译
 - [ ] [《Mastering Ethereum》](https://github.com/ethereumbook/ethereumbook)@wbnns
 - [ ] [《Mastering Ethereum （中文版）》](https://github.com/inoutcode/ethereum_book)@inoutcode
-- [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
-- [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
-- [ ] [《区块链安全技术指南》](https://item.jd.com/39942557423.html)@黄连金等
-- [ ] [《区块链安全(面向新工科专业建设计算机系列教材)》](https://item.jd.com/10058761445223.html)@翁健
-- [ ] [《一本书读懂Web3.0》](https://item.jd.com/10051359398596.html)@a15a
-- [ ] [《区块链安全实战》](https://item.jd.com/71361656911.html)@孙国梓等译
-- [ ] [《区块链安全技术》](https://item.jd.com/10057200109354.html)@王剑锋等
-- [ ] [《以太坊Solidity智能合约开发》](https://item.jd.com/12824926.html)@嘉文等
-- [ ] [《精通以太坊智能合约开发》](https://item.jd.com/10075910987430.html)@熊丽兵
 - [ ] [《数字货币投资宝典》](https://item.jd.com/10048888184688.html)@欧立奇
 - [ ] [《区块链革命》](https://item.jd.com/12033804.html)@凯尔等译
-- [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
 - [ ] [《区块链技术指南》](https://yeasy.gitbook.io/blockchain_guide)@杨保华等
-- [ ] [《Solidity 中文教程》](https://www.w3cschool.cn/solidity/)@w3cschool
+- [ ] [《一本书读懂Web3.0》](https://item.jd.com/10051359398596.html)@a15a
+- [ ] [区块链常见漏洞列表](https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md)@慢雾
 
 三、视频教程
 - [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
@@ -63,7 +54,6 @@
 - [ ] [慢雾出品 | 2023 区块链安全与反洗钱年度报告](https://www.slowmist.com/report/2023-Blockchain-Security-and-AML-Annual-Report(CN).pdf)
 - [ ] [CertiK发布《Hack3d：2023年度Web3.0安全报告》](https://mp.weixin.qq.com/s/Vu8qIcLrr4r-H7TiaZujzA)
 - [ ] [Beosin重磅年报 | 2023 Web3区块链安全态势、反洗钱分析回顾以及加密行业重点监管政策总结](https://mp.weixin.qq.com/s/GJKB0pfps2OhpxdZF1qbdA)
-
 
 七、地址查询
 - [ ] https://etherscan.io
@@ -162,6 +152,10 @@
 
 一、学习资源
 - [ ] Solidity语言、Move语言
+- [ ] [《以太坊Solidity智能合约开发》](https://item.jd.com/12824926.html)@嘉文等
+- [ ] [《精通以太坊智能合约开发》](https://item.jd.com/10075910987430.html)@熊丽兵
+- [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
+- [ ] [《Solidity 中文教程》](https://www.w3cschool.cn/solidity/)@w3cschool
 - [ ] https://github.com/bkrem/awesome-solidity
 - [ ] https://github.com/ethereum/solidity
 - [ ] https://github.com/smartcontractkit/full-blockchain-solidity-course-js
@@ -235,10 +229,15 @@
 ## 03-Web3安全审计
 
 一、学习资源
+- [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
+- [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
+- [ ] [《区块链安全技术指南》](https://item.jd.com/39942557423.html)@黄连金等
+- [ ] [《区块链安全(面向新工科专业建设计算机系列教材)》](https://item.jd.com/10058761445223.html)@翁健
+- [ ] [《区块链安全实战》](https://item.jd.com/71361656911.html)@孙国梓等译
+- [ ] [《区块链安全技术》](https://item.jd.com/10057200109354.html)@王剑锋等
 - [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 - [ ] [区块链安全入门笔记](https://github.com/slowmist/Knowledge-Base/tree/master/blockchain_security_study_notes)@慢雾
-- [ ] [区块链常见漏洞列表](https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md)@慢雾
 - [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)@零时科技
 - [ ] https://paper.seebug.org/1664/
 - [ ] [关于区块链智能合约安全漏洞类型连载分析](https://github.com/Lianantech/Security-Vulnerabilities-Analysis-Series)@链安
@@ -296,7 +295,7 @@
 - [ ] https://swcregistry.io
 - [ ] https://dasp.co
 - [ ] https://github.com/fairyproof-io/Solidity-Vulnerability-Library
-- [ ] https://github.com/immunefi-team/Web3-Security-Library
+- [x] https://github.com/immunefi-team/Web3-Security-Library
 - [ ] https://github.com/cryptofinlabs/audit-checklist
 - [ ] https://ethereum.org/en/developers/tutorials/secure-development-workflow
 - [ ] https://securing.github.io/SCSVS/
@@ -437,6 +436,7 @@
 - https://hacked.slowmist.io/zh/
 
 二、公开事件
+- [Wormhole-uninitialized-proxy](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a) 1000万美元
 
 九、黑客事件
 - https://rekt.news/zh/
@@ -544,5 +544,6 @@
 - [ ] https://github.com/NoneAge
 - [ ] https://github.com/OffcierCia
 - [ ] https://github.com/pcaversaccio
+- [x] https://github.com/code-423n4
 
 [![Stargazers over time](https://starchart.cc//Web3Hack/Web3Hack.svg)](https://starchart.cc/Web3Hack/Web3Hack)
