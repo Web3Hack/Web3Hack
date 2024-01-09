@@ -4,14 +4,14 @@
 
 本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。深入学习区块链安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月8日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月9日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
 - [03-Web3安全审计](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1)
 - [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
 - [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
-- [06-Web3公司平台](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E5%B9%B3%E5%8F%B0)
+- [06-Web3公司招聘](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98)
 - [07-Web3货币交易](https://github.com/Web3Hack/Web3Hack#07-web3%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93)
 - [08-Web3参考致谢](https://github.com/Web3Hack/Web3Hack#08-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
 
@@ -60,17 +60,17 @@
 - [ ] https://bscscan.com
 - [ ] https://www.oklink.com
 
-八、其他资源
+八、协议技术
+
+九、其他资源
+
 - [ ] [《黑手册(DarkHandBook)》](https://github.com/evilcos/darkhandbook)@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
-- [ ] https://techflowpost.substack.com/p/web3
-- [ ] https://zhuanlan.zhihu.com/p/525119897
 - [ ] https://antcave.club/2323.html
 - [ ] [web3 学习资料（持续更新）](https://abetterweb3.notion.site/81b69eb40a09438da47dc54c2c94af12?v=0bc47a8ff9b345d298be50c181a373a1)@abetterweb3社区
 - [ ] https://github.com/Web3-Club/Web3-Recruitment-Website
 - [ ] https://discourse.web3bole.com/
 - [ ] https://www.theblockbeats.info/news/43703
-- [ ] https://github.com/rebase-network/who-is-hiring
 - [ ] https://foresightnews.pro/job/detail/238
 - [ ] https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook
 - [ ] https://github.com/shakenetwork/blockchain-security-awesome
@@ -93,7 +93,6 @@
 - [ ] https://github.com/Taotaotao666/SGK_Sites_and_Bots
 - [ ] https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 - [ ] https://github.com/0xJuancito/multichain-auditor
-- [ ] https://github.com/Cyfrin/security-and-auditing-full-course-s23
 - [ ] https://github.com/manifoldfinance/defi-threat
 - [ ] https://github.com/harendra-shakya/smart-contract-attack-vectors
 - [ ] https://github.com/Dexaran/DAPP-security-standards
@@ -144,6 +143,7 @@
 - [ ] https://web3wiki.site
 - [ ] https://github.com/gochain/web3
 - [ ] https://decert.me/tutorials
+- [ ] https://github.com/anders94/blockchain-demo
 
 ## 02-Web3智能合约
 
@@ -156,7 +156,7 @@
 - [ ] [《精通以太坊智能合约开发》](https://item.jd.com/10075910987430.html)@熊丽兵
 - [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
 - [ ] [《Solidity 中文教程》](https://www.w3cschool.cn/solidity/)@w3cschool
-- [ ] https://github.com/bkrem/awesome-solidity
+- [x] https://github.com/bkrem/awesome-solidity
 - [ ] https://github.com/ethereum/solidity
 - [ ] https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 - [ ] https://github.com/smartcontractkit/full-blockchain-solidity-course-py
@@ -185,6 +185,7 @@
 - [ ] https://github.com/luzhenqian/web3-examples
 - [ ] https://binschool.app/solidity-basic/solidity-basic-index.html
 - [ ] https://binschool.app/solidity-advanced/solidity-advanced-index.html
+- [ ] https://cryptozombies.io
 
 二、视频教程
 - [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
@@ -210,7 +211,6 @@
 - [ ] https://github.com/eth-brownie/brownie
 
 九、其他资源
-- [ ] https://cryptozombies.io/
 - [ ] https://app.intropia.io/
 - [ ] https://www.euler.finance/
 - [ ] https://github.com/jklepatch/eattheblocks
@@ -229,13 +229,13 @@
 ## 03-Web3安全审计
 
 一、学习资源
+- [x] [《智能合约安全审计工程师的技能集合》](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)@慢雾
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
 - [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
 - [ ] [《区块链安全技术指南》](https://item.jd.com/39942557423.html)@黄连金等
 - [ ] [《区块链安全(面向新工科专业建设计算机系列教材)》](https://item.jd.com/10058761445223.html)@翁健
 - [ ] [《区块链安全实战》](https://item.jd.com/71361656911.html)@孙国梓等译
 - [ ] [《区块链安全技术》](https://item.jd.com/10057200109354.html)@王剑锋等
-- [x] [慢雾｜智能合约安全审计技能树](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 - [ ] [区块链安全入门笔记](https://github.com/slowmist/Knowledge-Base/tree/master/blockchain_security_study_notes)@慢雾
 - [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)@零时科技
@@ -264,6 +264,8 @@
 - [ ] https://github.com/x676f64/secureum-mind_map
 - [ ] https://chinadefi.com/2293.html
 - [ ] https://chirpset.com/t/topic/448
+- [x] https://github.com/Cyfrin/security-and-auditing-full-course-s23
+- [x] https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques
 
 二、视频教程
 - [x] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
@@ -304,11 +306,13 @@
 - [ ] https://consensys.github.io/smart-contract-best-practices/attacks
 - [x] https://github.com/tamjid0x01/SmartContracts-audit-checklist
 - [x] https://github.com/aviggiano/theauditorbook
+- [x] https://github.com/Cyfrin/audit-checklist
+- [x] https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
 
 五、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
 - [ ] Smart Contracts、Blockchain、DApps 
-- [x] https://solodit.xyz/
+- [x] https://solodit.xyz
 - [x] [Runtime Verification Audit Reports](https://github.com/runtimeverification/publications)
 - [x] [AuditBlock Audit Reports](https://github.com/AuditBlock/AuditBlock_Reports_V1.0)
 - [x] [Beosin Audit Reports](https://www.beosin.com)
@@ -358,8 +362,10 @@
 - [ ] https://blog.openzeppelin.com/tag/security-audits
 - [ ] https://consensys.io/diligence/audits/
 - [ ] https://github.com/sigp/public-audits
+- [ ] https://github.com/sherlock-protocol/sherlock-reports
 
 六、审计工具
+- [x] https://github.com/search?q=Solidity+analyzer
 - [x] https://github.com/crytic/slither
 - [x] https://github.com/Consensys/mythril
 - [x] https://github.com/LoRexxar/Kunlun-M
@@ -381,14 +387,73 @@
 - [ ] https://github.com/FuzzingLabs/octopus
 - [ ] https://github.com/0xsha/ChainWalker
 - [ ] https://github.com/nascentxyz/pyrometer
-- [ ] https://mythx.io
 - [ ] https://github.com/Jon-Becker/heimdall-rs
-- [ ] https://0x0.ai
 - [ ] https://lightrains.com/blogs/solidity-static-analysis-tools
 - [ ] https://manticore.readthedocs.io
 - [x] https://github.com/Quillhash/Web3-Security-Tools
 - [ ] https://github.com/trailofbits/manticore
 - [ ] https://github.com/eth-sri/securify2
+- [x] https://github.com/Cyfrin/aderyn
+- [ ] https://github.com/MiloTruck/regast
+- [ ] https://github.com/malik672/gas-analyzer
+- [ ] https://github.com/giovannarevitoroz/regast
+- [ ] https://github.com/sagap/sonar-solidity
+- [ ] https://github.com/0xKitsune/solstat
+- [ ] https://github.com/0xKitsune/sstan
+- [ ] https://github.com/byterocket/c4udit
+- [ ] https://github.com/cryptohft/solidity-analyzer
+- [ ] https://github.com/cryptohft/solidity-analyzer-1
+- [ ] https://github.com/muellerberndt/sabre
+- [ ] https://github.com/NomicFoundation/solidity-analyzer
+- [ ] https://github.com/sec-bit/vscode-secbit-ssae
+- [ ] https://github.com/parmanuxyz/solidity-analyzer
+- [ ] https://github.com/karlpothast/SolidityCode.Reviews
+- [ ] https://github.com/etsangsplk/contract-complexity
+- [ ] https://github.com/LightDestory/SolidityDesignPatternAnalyzer
+- [ ] https://github.com/WaizKhan7/SmartMuv
+- [ ] https://github.com/haosong/solidity-checker
+- [ ] https://github.com/ymerkli/smart-contract-taint-analysis
+- [ ] https://github.com/DTeam-Top/hardhat-remix-analyzer
+- [ ] https://github.com/Arendt/solidity-gas-analyzer
+- [ ] https://github.com/malik672/gas-analyzer
+- [ ] https://github.com/web3xDev/SolidityAnalyzer
+- [ ] https://github.com/adamidarrha/solidityStaticAnalyzer
+- [ ] https://github.com/loorola/SolidityStaticAnalyzer
+- [ ] https://github.com/olog2n/SolidityStaticAnalyzers
+- [ ] https://github.com/smhaaker/solanalyzer
+- [ ] https://github.com/gaoxingjian/slither_cv
+- [ ] https://github.com/Tynik/ethereum-smart-contracts-analyzer
+- [ ] https://github.com/wenjinge0424/solidity-analyzer
+- [ ] https://github.com/Mr-Chegini/solidity-analyzer
+- [ ] https://github.com/wenjinge0424/solidity-analyzer
+- [ ] https://github.com/Mr-Chegini/solidity-analyzer
+- [ ] https://github.com/vmontagh/solidity-analyzer
+- [ ] https://github.com/AmroAbdrabo/ethereum-sc-taint-analyzer
+- [ ] https://github.com/alcuadrado/solidity-precompilation-analyzer
+- [ ] https://github.com/EricR/solanalyzer
+- [ ] https://github.com/giovannarevitoroz/regast
+- [ ] https://github.com/CarlosAlegreUr/Forge-Snapshots-Analyzer
+- [ ] https://github.com/hugoqnc/Taint-Analysis-PASS
+- [ ] https://github.com/etexaco123/AI_code_analyzer
+- [ ] https://github.com/echohermion/customization_pattern_checker
+- [ ] https://github.com/shaikat010/Slither_Smart_Contract_Testing
+- [ ] https://github.com/crytic/slither/wiki/Printer-documentation
+- [ ] https://github.com/microsoft/verisol
+- [ ] https://github.com/a16z/halmos
+- [ ] https://github.com/christoftorres/Osiris
+- [ ] https://github.com/nescio007/teether
+- [ ] https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns
+- [ ] https://github.com/gongbell/ContractFuzzer
+- [ ] https://github.com/eth-sri/ilf
+- [ ] https://github.com/usyd-blockchain/vandal
+- [ ] https://github.com/nevillegrech/MadMax
+- [ ] https://github.com/costa-group/ethIR
+- [ ] https://github.com/smartdec/smartcheck
+- [ ] https://github.com/wesleyjtann/Safe-SmartContracts
+- [ ] https://github.com/Messi-Q/ReChecker
+- [ ] https://github.com/runtimeverification/evm-semantics
+- [ ] https://github.com/pirapira/eth-isabelle
+- [ ] https://github.com/Decurity/semgrep-smart-contracts
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 七、漏洞复现
@@ -398,6 +463,8 @@
 - [ ] https://github.com/crytic/not-so-smart-contracts
 - [ ] https://github.com/OpenZeppelin/ethernaut
 - [ ] https://blog.sigmaprime.io/solidity-security.html
+- [ ] https://0x0.ai
+- [ ] https://mythx.io
 
 八、漏洞赏金
 - [ ] https://bugrap.io
@@ -427,6 +494,7 @@
 - [ ] [如何成为一名智能合约审计安全研究员，学习路线和必备网站](https://mp.weixin.qq.com/s/p15ts8zK78rJpPot8iSLnQ)
 - [ ] https://audit-hero.com/search-findings
 - [ ] https://solidityscan.com
+- [ ] https://github.com/0xcacti/awesome-solidity-dev-tools
 
 ## 04-Web3黑客事件
 
@@ -452,16 +520,16 @@
 三、创建钱包
 - https://goethereumbook.org/zh/wallet-generate/
 
-## 06-Web3公司平台
+## 06-Web3公司招聘
 
-一、知名交易所
+一、知名交易平台
 - https://skynet.certik.com/zh-CN/leaderboards/exchange
 - 币安：https://www.binance.com
 - 火币：https://www.htx.com
 - 欧易：https://www.okx.com
 - https://www.bitget.com
 
-二、安全审计公司
+二、Web3安全公司
 - [x] Certik：https://www.certik.com
 - [x] Beosin：https://www.beosin.com
 - [ ] 慢雾科技：https://slowmist.io
@@ -492,7 +560,7 @@
 - [ ] https://www.movebit.xyz
 - [ ] https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security
 
-三、Web3岗位
+三、Web3招聘岗位
 - [ ] https://www.lagou.com/wn/jobs/11504460.html
 - [ ] https://www.lagou.com/wn/jobs/11418567.html
 - [ ] https://web3.career/
@@ -517,9 +585,15 @@
 - [ ] https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729
 - [ ] https://github.com/JiceJin/who-is-hiring
 - [ ] https://parax.ai/
+- [ ] https://techflowpost.substack.com/p/web3
+- [ ] https://zhuanlan.zhihu.com/p/525119897
+- [ ] https://github.com/rebase-network/who-is-hiring
 
 四、其他平台
 - [ ] https://www.maskex.com/
+
+五、其他信息
+- [ ] [Working-in-Web3-The-Handbook](https://smsunarto.notion.site/smsunarto/Working-in-Web3-The-Handbook-22d66a8608da4e9a8887a7f22170a940)
 
 ## 07-Web3货币交易
 
@@ -545,5 +619,6 @@
 - [ ] https://github.com/OffcierCia
 - [ ] https://github.com/pcaversaccio
 - [x] https://github.com/code-423n4
+- [ ] https://github.com/PatrickAlphaC
 
 [![Stargazers over time](https://starchart.cc//Web3Hack/Web3Hack.svg)](https://starchart.cc/Web3Hack/Web3Hack)
