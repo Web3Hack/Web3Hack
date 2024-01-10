@@ -28,7 +28,7 @@
 - [ ] [《Mastering Ethereum （中文版）》](https://github.com/inoutcode/ethereum_book)@inoutcode
 - [ ] [《数字货币投资宝典》](https://item.jd.com/10048888184688.html)@欧立奇
 - [ ] [《区块链革命》](https://item.jd.com/12033804.html)@凯尔等译
-- [ ] [《区块链技术指南》](https://yeasy.gitbook.io/blockchain_guide)@杨保华等
+- [x] [《区块链技术指南》](https://yeasy.gitbook.io/blockchain_guide)@杨保华等
 - [ ] [《一本书读懂Web3.0》](https://item.jd.com/10051359398596.html)@a15a
 - [ ] [区块链常见漏洞列表](https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md)@慢雾
 
@@ -234,6 +234,9 @@
 ## 03-Web3安全审计
 
 一、学习资源
+
+- 形式化验证、模糊测试、符号执行和污点分析等方法是当前主流的智能合约漏洞挖掘手段
+
 - [x] [《智能合约安全审计工程师的技能集合》](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)@慢雾
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
 - [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
@@ -279,6 +282,7 @@
 - [ ] [《区块链安全实战修炼营》](https://learnblockchain.cn/course/38)@BlockSec
 
 三、漏洞类型
+- 底层代码安全、加密算法安全、网络协议安全、共识协议安全、密码协议安全、智能合约安全、链上链下协同安全、跨链安全、基础Web2安全。
 - [ ] https://solidity-by-example.org/
 - [ ] https://github.com/Quillhash/Solidity-Attack-Vectors
 - [x] https://github.com/kadenzipfel/smart-contract-vulnerabilities
@@ -328,6 +332,7 @@
 - [x] https://github.com/aviggiano/theauditorbook
 - [x] https://github.com/Cyfrin/audit-checklist
 - [x] https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
+- [ ] https://mp.weixin.qq.com/s/IFmLs-XtK8WVrgaDwGZM4g
 
 五、审计报告
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
@@ -383,6 +388,7 @@
 - [ ] https://consensys.io/diligence/audits/
 - [ ] https://github.com/sigp/public-audits
 - [ ] https://github.com/sherlock-protocol/sherlock-reports
+- [ ] https://github.com/DVPNET/Report_Public
 
 六、审计工具
 - [x] https://github.com/search?q=Solidity+analyzer
@@ -474,6 +480,10 @@
 - [ ] https://github.com/runtimeverification/evm-semantics
 - [ ] https://github.com/pirapira/eth-isabelle
 - [ ] https://github.com/Decurity/semgrep-smart-contracts
+- [ ] https://github.com/enzymefinance/oyente
+- [ ] https://github.com/msuiche/porosity
+- [ ] https://github.com/crytic/ethersplay
+- [ ] https://github.com/Arachnid/evmdis
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
 七、漏洞复现
@@ -491,6 +501,7 @@
 - [ ] https://code4rena.com
 - [ ] https://immunefi.com
 - [ ] https://hackenproof.com
+- [ ] https://dvpnet.io
 - [ ] https://github.com/0xJuancito/audits
 
 九、其他资源
