@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。深入学习区块链安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月9日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月10日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
 - [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
@@ -63,7 +63,6 @@
 八、协议技术
 
 九、其他资源
-
 - [ ] [《黑手册(DarkHandBook)》](https://github.com/evilcos/darkhandbook)@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
 - [ ] https://antcave.club/2323.html
@@ -106,7 +105,6 @@
 - [ ] https://bloodzer0.github.io/ossa/code_audit/solitity
 - [ ] https://github.com/0xisk/awesome-solidity-security
 - [ ] https://github.com/0xisk/awesome-solidity-projects
-- [ ] https://solidity-by-example.org
 - [ ] https://xz.aliyun.com/t/12986
 - [ ] https://github.com/VenusProtocol/venus-protocol
 - [ ] https://www.yun88.com/product/2599.html
@@ -144,6 +142,7 @@
 - [ ] https://github.com/gochain/web3
 - [ ] https://decert.me/tutorials
 - [ ] https://github.com/anders94/blockchain-demo
+- [ ] https://github.com/OmniLayer/spec
 
 ## 02-Web3智能合约
 
@@ -152,6 +151,7 @@
 
 一、学习资源
 - [ ] Solidity语言、Move语言
+- [x] [《Solidity官方手册》](https://docs.soliditylang.org/zh/latest/)@soliditylang
 - [ ] [《以太坊Solidity智能合约开发》](https://item.jd.com/12824926.html)@嘉文等
 - [ ] [《精通以太坊智能合约开发》](https://item.jd.com/10075910987430.html)@熊丽兵
 - [ ] [《Solidity智能合约开发》](https://u.naturaldao.io/solidity/)@谭粤飞
@@ -225,6 +225,11 @@
 - [ ] https://github.com/tiangong3624749/LearnMove
 - [ ] https://github.com/Fankouzu/smart-contract
 - [ ] https://github.com/Web3-Club/solidity-by-example_Chinese
+- [ ] [引介｜EVM 深入探讨-Part 1](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496252&idx=1&sn=f21662916829d32dfb36b50cec5faeff&chksm=fdde8cbbcaa905adf384a9b788ad2dea063f12029970328a3955d12012251d5fbe083454e717&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [引介｜EVM 深入探讨 Part 2](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496538&idx=1&sn=8b79a011373c6ade9ce4d10e91dcc1a4&chksm=fdde8dddcaa904cb3fb6cb2a761b35cb5a9b18fe010d765533dbfb339bdd54c54b9cd33ecfa0&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [引介｜EVM 深入探讨 Part 3](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496759&idx=1&sn=b2ed9ce466803dbee59b390ab9d0b1f4&chksm=fdde8ab0caa903a6e48cb7da529c6a1f8271fb39d89382f3114bccf3c11f24fbdd01150abdaf&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [引介｜EVM 深入探讨 Part 4](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496856&idx=1&sn=cb805902a8b54d49a8f5771072385813&chksm=fdde8a1fcaa903093e7b8cf6dd6ee58b91e3fae03615a52c66feb11b5d246888b5714b78ed76&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [引介｜EVM 深入探讨 Part 5](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497104&idx=1&sn=85f08352d0abb5730fed8f6857b4e75e&chksm=fdde8b17caa902012781c59751443160c13bd75e88f54c6ddeb5f2ae3b4d22aadc3534ba6e74&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 
 ## 03-Web3安全审计
 
@@ -245,7 +250,7 @@
 - [ ] [区块链公链审计Checklist](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651372563&idx=2&sn=5496dcfd278c2d11c8cad17aee99fb23&chksm=8d39cd9bba4e448d8ced57e6dfa7df8bd905d24c71d46a3025f900f1f9e91057eeffa70abada&scene=21#wechat_redirect)@长亭
 - [ ] https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q
 - [ ] https://github.com/slowmist/eos-bp-nodes-security-checklist
-- [ ] https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
+- [x] https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
 - [ ] https://github.com/slowmist/cryptocurrency-security
 - [ ] https://github.com/saeidshirazi/Awesome-Smart-Contract-Security
 - [ ] https://github.com/Quillhash/QuillAudit_Auditor_Roadmap
@@ -266,6 +271,7 @@
 - [ ] https://chirpset.com/t/topic/448
 - [x] https://github.com/Cyfrin/security-and-auditing-full-course-s23
 - [x] https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques
+- [x] https://updraft.cyfrin.io/courses/security
 
 二、视频教程
 - [x] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
@@ -292,6 +298,20 @@
 - [ ] https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare
 - [ ] [security-review-checklist-for-a-smart-contract/8593#8593](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract/8593#8593)
 - [x] https://github.com/pcaversaccio/reentrancy-attacks
+- [ ] [Solidity 安全：已知攻击方法和常见防御模式综合列表](https://github.com/slowmist/Knowledge-Base/blob/master/translations/solidity-security-comprehensive-list-of-known-attack-vectors-and-common-anti-patterns_zh-cn.md)@慢雾
+- [ ] https://blog.sigmaprime.io/solidity-security.html
+- [ ] [智能合约安全审计入门篇 —— 重入漏洞](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247494325&idx=1&sn=39b32e10219ca6209e3fd11cb0134bc9&chksm=fdde9432caa91d24bdb064217249f6c1a7696b1869748f7eef3697403d4cbd00f0b44a22d85b&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 溢出漏洞](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247494336&idx=1&sn=0bda7ddd7d7c70a8d616af28916635ab&chksm=fdde9447caa91d513706a541019ab1bd9f04bb56e72c4b1efcc343c59afc98e75a03e47cfa01&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 自毁函数](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247494482&idx=1&sn=923f75b52f494f27cf4f54683c760d2d&chksm=fdde95d5caa91cc3fb051dbd7d214ab220a77d8416c6ddbe02e73bb5e84a7505a1b2f176b0d2&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 拒绝服务](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496478&idx=1&sn=ab7c5bad8b74375896e69d2ff2ad7df8&chksm=fdde8d99caa9048fcd005310402937745d166b6bef116ef19095dae4c5d1510392c2f93d763d&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 随机数](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247495857&idx=1&sn=aef0425ae6cedca45c2328b3d6f34a9c&chksm=fdde8e36caa907208af70d99e78393272ca5f8b43591f0abfecaf1b40ac1578854b928bbc57d&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— delegatecall (1)](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247495630&idx=1&sn=f7ccb4e1a30d5b78679a8335053a9d32&chksm=fdde9149caa9185f32baa92132a841030c68fe622e1f21365255e8c3b3d5d23783b6d0e2cef0&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— delegatecall (2)](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247495813&idx=1&sn=6cd4c3c8c1f1e2c0743d357decd6517b&chksm=fdde8e02caa9071429aaed9431be58f5fb90a902754384512d5ade77a24a84121386f2680b81&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 访问私有数据](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247495163&idx=1&sn=ea372916d1d957de4ba19676bd030526&chksm=fdde937ccaa91a6a3f686166a8eac9f742edebd4ba30b7ba26fe93f0ceff2219e6ffa47292b3&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 签名重放](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247498135&idx=1&sn=247b149eb5b0b1c5b4348ce7512adf03&chksm=fdde8710caa90e06922e46f142a57fd8d6de5718e84547e6c548c45e301172f14dcebf73f00f&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— Contract Size Check](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247498432&idx=1&sn=3238076ebd6e1f8e35f577c51f2cec88&chksm=fdde8447caa90d514fe716549885a7285d3c587da66f255f35896b3c02a800adefb67d3e6404&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— 移花接木](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496825&idx=1&sn=a6154c7c7aaa2502839f51c85f4efc34&chksm=fdde8afecaa903e8875c586cf1f49e7bef350ee4cb490306fe5ad6b59cf13e61a2d7622d3935&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] [智能合约安全审计入门篇 —— Phishing with tx.origin](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496742&idx=1&sn=ce5f542b5bd108483592250598b0daff&chksm=fdde8aa1caa903b73640f8464542eed5d6b809a4815cb11332de1872a8b00c96e4327b3d1c63&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 
 四、审计标准
 - [ ] https://swcregistry.io
@@ -495,6 +515,7 @@
 - [ ] https://audit-hero.com/search-findings
 - [ ] https://solidityscan.com
 - [ ] https://github.com/0xcacti/awesome-solidity-dev-tools
+- [ ] [慢雾出品｜Web3 行业供应链安全指南](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247498025&idx=1&sn=1642e5f07a7b1c2c85c4f3da897d8b2f&chksm=fdde87aecaa90eb84f67a35dbc139174e5d1b9ef8ec0663920ac6d3a8415175b038ec684f745&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 
 ## 04-Web3黑客事件
 
@@ -508,6 +529,8 @@
 
 九、黑客事件
 - https://rekt.news/zh/
+- https://mp.weixin.qq.com/s/Kk2lsoQ1679Gda56Ec-zJg
+- https://blog.chain.link/reentrancy-attacks-and-the-dao-hack-zh
 
 ## 05-Web3冷热钱包
 
