@@ -234,9 +234,7 @@
 ## 03-Web3安全审计
 
 一、学习资源
-
 - 形式化验证、模糊测试、符号执行和污点分析等方法是当前主流的智能合约漏洞挖掘手段
-
 - [x] [《智能合约安全审计工程师的技能集合》](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)@慢雾
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
 - [ ] [《区块链安全入门与实战》](https://item.jd.com/13067698.html)@邓永凯等
