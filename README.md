@@ -7,19 +7,27 @@
 本项目创建于2023年11月7日，最近的一次更新时间为2024年1月10日。
 
 - [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
+  - |[01-政策法规]()|[02-优秀资源]()|[03-视频教程]()|[04-博客论坛]()|[05-学术论文]()|[06-年度报告]()|[07-地址查询]()|[08-协议技术]()|[09-其他资源]()|
 - [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
+  - |[01-学习资源]()|[02-视频教程]()|[03-知名框架]()|[04-开源项目]()|[05-安全开发]()|[06-测试框架]()|[07-其他资源]()|
 - [03-Web3安全审计](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1)
+  - |[01-学习资源]()|[02-视频教程]()|[03-漏洞类型]()|[04-审计标准]()|[05-审计报告]()|[06-审计工具]()|[07-漏洞复现]()|[08-漏洞复现]()|[09-其他资源]()|
 - [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
+  - |[01-事件统计]()|[02-公开事件]()|[03-黑客事件]()|
 - [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
+  - |[01-知名钱包]()|[02-钱包分类]()|[03-创建钱包]()|[0]()|
 - [06-Web3公司招聘](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98)
+  - |[01-交易平台]()|[02-安全公司]()|[03-招聘岗位]()|[04-其他平台]()|[05-其他信息]()|
 - [07-Web3货币交易](https://github.com/Web3Hack/Web3Hack#07-web3%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93)
+  - |[01-现货交易]()|[02-合约交易]()|
 - [08-Web3参考致谢](https://github.com/Web3Hack/Web3Hack#08-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
 
-## 01-Web3资源汇总
+## 0x01-Web3资源汇总
 
-一、政策法规
+### 01-政策法规
 
-二、优秀资源
+### 02-优秀资源
+
 - [x] [《比特币白皮书》](https://bitcoin.org/bitcoin.pdf)@Satoshi Nakamoto
 - [x] [《以太坊白皮书》](https://ethereum.org/zh/whitepaper/)@Vitalik Buterin
 - [x] [《精通区块链编程》](https://item.jd.com/12620946.html)@郭理靖等译
@@ -32,7 +40,8 @@
 - [ ] [《一本书读懂Web3.0》](https://item.jd.com/10051359398596.html)@a15a
 - [ ] [区块链常见漏洞列表](https://github.com/slowmist/Cryptocurrency-Security-Audit-Guide/blob/main/Blockchain-Common-Vulnerability-List_CN.md)@慢雾
 
-三、视频教程
+### 03-视频教程
+
 - [ ] https://www.bilibili.com/video/BV1ts4y1d7H7
 - [ ] https://www.bilibili.com/video/BV1Uu4y1m7WK
 - [ ] https://www.youtube.com/watch?v=DRZogmD647U
@@ -40,7 +49,8 @@
 - [ ] [《区块链技术与应用》](https://www.bilibili.com/video/av37065233/)@北大肖臻
 - [ ] [《区块链之新》](https://www.bilibili.com/bangumi/play/ep290332)@三橙传媒
 
-四、论坛博客
+### 04-论坛博客
+
 - [ ] https://bitcointalk.org
 - [ ] https://www.learnblockchain.cn
 - [ ] https://www.wtf.academy
@@ -48,21 +58,24 @@
 - [ ] https://www.smartcontractresearch.org
 - [ ] https://ethereum-magicians.org
 
-五、学术论文
+### 05-学术论文
 
-六、年度报告
+### 06-年度报告
+
 - [ ] [慢雾出品 | 2023 区块链安全与反洗钱年度报告](https://www.slowmist.com/report/2023-Blockchain-Security-and-AML-Annual-Report(CN).pdf)
 - [ ] [CertiK发布《Hack3d：2023年度Web3.0安全报告》](https://mp.weixin.qq.com/s/Vu8qIcLrr4r-H7TiaZujzA)
 - [ ] [Beosin重磅年报 | 2023 Web3区块链安全态势、反洗钱分析回顾以及加密行业重点监管政策总结](https://mp.weixin.qq.com/s/GJKB0pfps2OhpxdZF1qbdA)
 
-七、地址查询
+### 07-地址查询
+
 - [ ] https://etherscan.io
 - [ ] https://bscscan.com
 - [ ] https://www.oklink.com
 
-八、协议技术
+### 08-协议技术
 
-九、其他资源
+### 09-其他资源
+
 - [ ] [《黑手册(DarkHandBook)》](https://github.com/evilcos/darkhandbook)@慢雾
 - [ ] https://tenten.co/learning/what-is-web3
 - [ ] https://antcave.club/2323.html
@@ -144,12 +157,13 @@
 - [ ] https://github.com/anders94/blockchain-demo
 - [ ] https://github.com/OmniLayer/spec
 
-## 02-Web3智能合约
+## 0x02-Web3智能合约
 
 - https://github.com/LearnSolidity
 - https://github.com/topics/solidity
 
-一、学习资源
+### 01-学习资源
+
 - [ ] Solidity语言、Move语言
 - [x] [《Solidity官方手册》](https://docs.soliditylang.org/zh/latest/)@soliditylang
 - [ ] [《以太坊Solidity智能合约开发》](https://item.jd.com/12824926.html)@嘉文等
@@ -187,30 +201,36 @@
 - [ ] https://binschool.app/solidity-advanced/solidity-advanced-index.html
 - [ ] https://cryptozombies.io
 
-二、视频教程
+### 02-视频教程
+
 - [ ] [《Solidity 8.0全面精通》](https://space.bilibili.com/286084162/channel/collectiondetail?sid=296410)@崔棉
 - [ ] [《Solidity 高级程序设计》](https://github.com/anbang/professional-solidity)@朱安邦
 
-二、知名框架
+### 03-知名框架
+
 - [ ] https://library.dedaub.com/
 - [ ] https://github.com/foundry-rs/foundry
 - [ ] https://github.com/NomicFoundation/hardhat
 
-四、开源项目
+### 04-开源项目
+
 - [ ] https://github.com/ConsenSys/Tokens
 
-五、安全开发
+### 05-安全开发
+
 - [ ] https://github.com/transmissions11/solcurity
 - [ ] https://github.com/Consensys/smart-contract-best-practices
 - [ ] https://github.com/OpenZeppelin/openzeppelin-contracts
 - [ ] https://github.com/fravoll/solidity-patterns
 
-六、测试框架
+### 06-测试框架
+
 - [ ] https://github.com/yosriady/contracts-starter
 - [ ] https://github.com/jTanG0506/smart-contract-engineer
 - [ ] https://github.com/eth-brownie/brownie
 
-九、其他资源
+### 07-其他资源
+
 - [ ] https://app.intropia.io/
 - [ ] https://www.euler.finance/
 - [ ] https://github.com/jklepatch/eattheblocks
@@ -233,7 +253,8 @@
 
 ## 03-Web3安全审计
 
-一、学习资源
+### 01-学习资源
+
 - 形式化验证、模糊测试、符号执行和污点分析等方法是当前主流的智能合约漏洞挖掘手段
 - [x] [《智能合约安全审计工程师的技能集合》](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor/blob/main/README_CN.md)@慢雾
 - [ ] [《智能合约安全分析和审计指南》](https://item.jd.com/10084988186661.html)@王艺卓等译
@@ -274,12 +295,14 @@
 - [x] https://github.com/shanzson/Smart-Contract-Auditor-Tools-and-Techniques
 - [x] https://updraft.cyfrin.io/courses/security
 
-二、视频教程
+### 02-视频教程
+
 - [x] [Advanced Web3 Security Course | Part 1](https://www.youtube.com/watch?v=DRZogmD647U)@Owen Thurm
 - [x] [Smart Contract Security and Auditing 101](https://www.youtube.com/watch?v=0aJfCug1zTM&t=3s)@Chainlink
 - [ ] [《区块链安全实战修炼营》](https://learnblockchain.cn/course/38)@BlockSec
 
-三、漏洞类型
+### 03-漏洞类型
+
 - 底层代码安全、加密算法安全、网络协议安全、共识协议安全、密码协议安全、智能合约安全、链上链下协同安全、跨链安全、基础Web2安全。
 - [ ] https://solidity-by-example.org/
 - [ ] https://github.com/Quillhash/Solidity-Attack-Vectors
@@ -315,7 +338,8 @@
 - [ ] [智能合约安全审计入门篇 —— 移花接木](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496825&idx=1&sn=a6154c7c7aaa2502839f51c85f4efc34&chksm=fdde8afecaa903e8875c586cf1f49e7bef350ee4cb490306fe5ad6b59cf13e61a2d7622d3935&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 - [ ] [智能合约安全审计入门篇 —— Phishing with tx.origin](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496742&idx=1&sn=ce5f542b5bd108483592250598b0daff&chksm=fdde8aa1caa903b73640f8464542eed5d6b809a4815cb11332de1872a8b00c96e4327b3d1c63&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 
-四、审计标准
+### 04-审计标准
+
 - [ ] https://swcregistry.io
 - [ ] https://dasp.co
 - [ ] https://github.com/fairyproof-io/Solidity-Vulnerability-Library
@@ -332,7 +356,8 @@
 - [x] https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
 - [ ] https://mp.weixin.qq.com/s/IFmLs-XtK8WVrgaDwGZM4g
 
-五、审计报告
+### 05-审计报告
+
 - [ ] smart contracts report、smart contract pdf、智能合约安全审计
 - [ ] Smart Contracts、Blockchain、DApps 
 - [x] https://solodit.xyz
@@ -388,7 +413,8 @@
 - [ ] https://github.com/sherlock-protocol/sherlock-reports
 - [ ] https://github.com/DVPNET/Report_Public
 
-六、审计工具
+### 06-审计工具
+
 - [x] https://github.com/search?q=Solidity+analyzer
 - [x] https://github.com/crytic/slither
 - [x] https://github.com/Consensys/mythril
@@ -484,7 +510,8 @@
 - [ ] https://github.com/Arachnid/evmdis
 - [ ] Analysis-of-Ethereum-Transactions-and-Smart-Contracts-main
 
-七、漏洞复现
+### 07-漏洞复现
+
 - [ ] https://github.com/blockthreat/blocksec-ctfs
 - [ ] https://github.com/Ershu1/-Sec
 - [ ] https://ethernaut.zeppelin.solutions
@@ -494,7 +521,8 @@
 - [ ] https://0x0.ai
 - [ ] https://mythx.io
 
-八、漏洞赏金
+### 08-漏洞赏金
+
 - [ ] https://bugrap.io
 - [ ] https://code4rena.com
 - [ ] https://immunefi.com
@@ -502,7 +530,8 @@
 - [ ] https://dvpnet.io
 - [ ] https://github.com/0xJuancito/audits
 
-九、其他资源
+### 09-其他资源
+
 - [ ] https://mp.weixin.qq.com/s/Q8PtmUUAOo7XIV3BY5ycXA
 - [ ] https://github.com/emilianobonassi/security-toolkit
 - [ ] https://blog.chain.link/defi-security-best-practices/
@@ -526,42 +555,50 @@
 - [ ] https://github.com/0xcacti/awesome-solidity-dev-tools
 - [ ] [慢雾出品｜Web3 行业供应链安全指南](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247498025&idx=1&sn=1642e5f07a7b1c2c85c4f3da897d8b2f&chksm=fdde87aecaa90eb84f67a35dbc139174e5d1b9ef8ec0663920ac6d3a8415175b038ec684f745&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 
-## 04-Web3黑客事件
+## 0x04-Web3黑客事件
 
 - https://github.com/Web3Hack/Events
 
-一、事件统计
+### 01-事件统计
+
 - https://hacked.slowmist.io/zh/
 
-二、公开事件
+### 02-公开事件
+
 - [Wormhole-uninitialized-proxy](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a) 1000万美元
 
-九、黑客事件
+### 03-黑客事件
+
 - https://rekt.news/zh/
 - https://mp.weixin.qq.com/s/Kk2lsoQ1679Gda56Ec-zJg
 - https://blog.chain.link/reentrancy-attacks-and-the-dao-hack-zh
 
-## 05-Web3冷热钱包
+## 0x05-Web3冷热钱包
 
-一、知名钱包
+### 01-知名钱包
+
 - https://www.ledger.com/
 
-二、钱包分类
+### 02-钱包分类
+
 - https://www.coinspot.com.au/
 
-三、创建钱包
+### 03-创建钱包
+
 - https://goethereumbook.org/zh/wallet-generate/
 
-## 06-Web3公司招聘
+## 0x06-Web3公司招聘
 
-一、知名交易平台
+### 01-交易平台
+
 - https://skynet.certik.com/zh-CN/leaderboards/exchange
 - 币安：https://www.binance.com
 - 火币：https://www.htx.com
 - 欧易：https://www.okx.com
 - https://www.bitget.com
 
-二、Web3安全公司
+### 02-安全公司
+
 - [x] Certik：https://www.certik.com
 - [x] Beosin：https://www.beosin.com
 - [ ] 慢雾科技：https://slowmist.io
@@ -592,7 +629,8 @@
 - [ ] https://www.movebit.xyz
 - [ ] https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security
 
-三、Web3招聘岗位
+### 03-招聘岗位
+
 - [ ] https://www.lagou.com/wn/jobs/11504460.html
 - [ ] https://www.lagou.com/wn/jobs/11418567.html
 - [ ] https://web3.career/
@@ -621,15 +659,21 @@
 - [ ] https://zhuanlan.zhihu.com/p/525119897
 - [ ] https://github.com/rebase-network/who-is-hiring
 
-四、其他平台
+### 04-其他平台
+
 - [ ] https://www.maskex.com/
 
-五、其他信息
+### 05-其他信息
+
 - [ ] [Working-in-Web3-The-Handbook](https://smsunarto.notion.site/smsunarto/Working-in-Web3-The-Handbook-22d66a8608da4e9a8887a7f22170a940)
 
-## 07-Web3货币交易
+## 0x07-Web3货币交易
 
-## 08-Web3参考致谢
+### 01-现货交易
+
+### 02-合约交易
+
+## 0x08-Web3参考致谢
 
 - [ ] https://github.com/xiaolai
 - [ ] https://twitter.com/sunyuchentron
