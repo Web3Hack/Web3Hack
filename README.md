@@ -6,21 +6,21 @@
 
 本项目创建于2023年11月7日，最近的一次更新时间为2024年1月10日。
 
-- [01-Web3学习资源](https://github.com/Web3Hack/Web3Hack#01-web3%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-  - |[01-政策法规]()|[02-优秀资源]()|[03-视频教程]()|[04-博客论坛]()|[05-学术论文]()|[06-年度报告]()|[07-地址查询]()|[08-协议技术]()|[09-其他资源]()|
-- [02-Web3智能合约](https://github.com/Web3Hack/Web3Hack#02-Web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
-  - |[01-学习资源]()|[02-视频教程]()|[03-知名框架]()|[04-开源项目]()|[05-安全开发]()|[06-测试框架]()|[07-其他资源]()|
-- [03-Web3安全审计](https://github.com/Web3Hack/Web3Hack#03-web3%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1)
-  - |[01-学习资源]()|[02-视频教程]()|[03-漏洞类型]()|[04-审计标准]()|[05-审计报告]()|[06-审计工具]()|[07-漏洞复现]()|[08-漏洞复现]()|[09-其他资源]()|
-- [04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack#04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
-  - |[01-事件统计]()|[02-公开事件]()|[03-黑客事件]()|
-- [05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack#05-Web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
-  - |[01-知名钱包]()|[02-钱包分类]()|[03-创建钱包]()|[0]()|
-- [06-Web3公司招聘](https://github.com/Web3Hack/Web3Hack#06-Web3%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98)
-  - |[01-交易平台]()|[02-安全公司]()|[03-招聘岗位]()|[04-其他平台]()|[05-其他信息]()|
-- [07-Web3货币交易](https://github.com/Web3Hack/Web3Hack#07-web3%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93)
-  - |[01-现货交易]()|[02-合约交易]()|
-- [08-Web3参考致谢](https://github.com/Web3Hack/Web3Hack#08-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
+- [0x01-Web3学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x01-web3%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB)
+  - |[01-政策法规](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)|[02-优秀资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E4%BC%98%E7%A7%80%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-博客论坛](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E8%AE%BA%E5%9D%9B%E5%8D%9A%E5%AE%A2)|[05-学术论文](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)|[06-年度报告](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)|[07-地址查询](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E5%9C%B0%E5%9D%80%E6%9F%A5%E8%AF%A2)|[08-协议技术](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#08-%E5%8D%8F%E8%AE%AE%E6%8A%80%E6%9C%AF)|[09-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#09-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
+- [0x02-Web3智能合约](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x02-web3%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
+  - |[01-学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)|[02-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[03-知名框架](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E7%9F%A5%E5%90%8D%E6%A1%86%E6%9E%B6)|[04-开源项目](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)|[05-安全开发](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AE%89%E5%85%A8%E5%BC%80%E5%8F%91)|[06-测试框架](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6)|[07-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
+- [0x03-Web3安全审计](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-web3%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1)
+  - |[01-学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-1)|[02-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B-1)|[03-漏洞类型](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B)|[04-审计标准](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E5%AE%A1%E8%AE%A1%E6%A0%87%E5%87%86)|[05-审计报告](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A)|[06-审计工具](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)|[07-漏洞复现](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0)|[08-漏洞复现](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#08-%E6%BC%8F%E6%B4%9E%E8%B5%8F%E9%87%91)|[09-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#09-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90-1)|
+- [0x04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
+  - |[01-事件统计](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E4%BA%8B%E4%BB%B6%E7%BB%9F%E8%AE%A1)|[02-公开事件](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E5%85%AC%E5%BC%80%E4%BA%8B%E4%BB%B6)|[03-黑客事件](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)|
+- [0x05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x05-web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
+  - |[01-知名钱包](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E7%9F%A5%E5%90%8D%E9%92%B1%E5%8C%85)|[02-钱包分类](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E9%92%B1%E5%8C%85%E5%88%86%E7%B1%BB)|[03-创建钱包](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E5%88%9B%E5%BB%BA%E9%92%B1%E5%8C%85)|
+- [0x06-Web3公司招聘](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x06-web3%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98)
+  - |[01-交易平台](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)|[02-安全公司](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E5%AE%89%E5%85%A8%E5%85%AC%E5%8F%B8)|[03-招聘岗位](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D)|[04-其他平台](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0)|[05-其他信息](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%85%B6%E4%BB%96%E4%BF%A1%E6%81%AF)|
+- [0x07-Web3货币交易](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x07-web3%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93)
+  - |[01-现货交易](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E7%8E%B0%E8%B4%A7%E4%BA%A4%E6%98%93)|[02-合约交易](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93)|
+- [0x08-Web3参考致谢](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x08-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
 
 ## 0x01-Web3资源汇总
 
