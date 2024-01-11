@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。深入学习区块链安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月10日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月11日。
 
 - [0x01-Web3学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x01-web3%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB)
   - |[01-政策法规](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)|[02-优秀资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E4%BC%98%E7%A7%80%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-博客论坛](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E8%AE%BA%E5%9D%9B%E5%8D%9A%E5%AE%A2)|[05-学术论文](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)|[06-年度报告](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)|[07-地址查询](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E5%9C%B0%E5%9D%80%E6%9F%A5%E8%AF%A2)|[08-协议技术](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#08-%E5%8D%8F%E8%AE%AE%E6%8A%80%E6%9C%AF)|[09-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#09-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -250,6 +250,7 @@
 - [ ] [引介｜EVM 深入探讨 Part 3](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496759&idx=1&sn=b2ed9ce466803dbee59b390ab9d0b1f4&chksm=fdde8ab0caa903a6e48cb7da529c6a1f8271fb39d89382f3114bccf3c11f24fbdd01150abdaf&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 - [ ] [引介｜EVM 深入探讨 Part 4](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247496856&idx=1&sn=cb805902a8b54d49a8f5771072385813&chksm=fdde8a1fcaa903093e7b8cf6dd6ee58b91e3fae03615a52c66feb11b5d246888b5714b78ed76&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
 - [ ] [引介｜EVM 深入探讨 Part 5](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247497104&idx=1&sn=85f08352d0abb5730fed8f6857b4e75e&chksm=fdde8b17caa902012781c59751443160c13bd75e88f54c6ddeb5f2ae3b4d22aadc3534ba6e74&scene=178&cur_album_id=1378673890158936067#rd)@慢雾
+- [ ] https://github.com/bnb-chain
 
 ## 03-Web3安全审计
 
@@ -607,6 +608,7 @@
 - [ ] 北京链安：https://safeis.cn
 - [ ] 知道创宇：https://www.knownsec.com
 - [ ] 长亭科技：https://www.chaitin.cn/zh/blockchain
+- [ ] 安全狗：https://www.safedog.cn/index/blockChainIndex.html
 - [ ] https://vatin.io
 - [ ] https://hexens.io
 - [ ] http://armorslab.com
