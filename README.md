@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。深入学习区块链安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月11日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年1月31日。
 
 - [0x01-Web3学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x01-web3%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB)
   - |[01-政策法规](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)|[02-优秀资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E4%BC%98%E7%A7%80%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-博客论坛](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E8%AE%BA%E5%9D%9B%E5%8D%9A%E5%AE%A2)|[05-学术论文](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)|[06-年度报告](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)|[07-地址查询](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E5%9C%B0%E5%9D%80%E6%9F%A5%E8%AF%A2)|[08-协议技术](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#08-%E5%8D%8F%E8%AE%AE%E6%8A%80%E6%9C%AF)|[09-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#09-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -57,6 +57,7 @@
 - [ ] https://ethresear.ch
 - [ ] https://www.smartcontractresearch.org
 - [ ] https://ethereum-magicians.org
+- [ ] https://github.com/lbc-team
 
 ### 05-学术论文
 
@@ -65,6 +66,7 @@
 - [ ] [慢雾出品 | 2023 区块链安全与反洗钱年度报告](https://www.slowmist.com/report/2023-Blockchain-Security-and-AML-Annual-Report(CN).pdf)
 - [ ] [CertiK发布《Hack3d：2023年度Web3.0安全报告》](https://mp.weixin.qq.com/s/Vu8qIcLrr4r-H7TiaZujzA)
 - [ ] [Beosin重磅年报 | 2023 Web3区块链安全态势、反洗钱分析回顾以及加密行业重点监管政策总结](https://mp.weixin.qq.com/s/GJKB0pfps2OhpxdZF1qbdA)
+- [ ] [零时科技 《2023年全球Web3行业安全研究报告》](https://mp.weixin.qq.com/s/G09px9q6yKiaqJV9p224LQ)
 
 ### 07-地址查询
 
@@ -156,6 +158,7 @@
 - [ ] https://decert.me/tutorials
 - [ ] https://github.com/anders94/blockchain-demo
 - [ ] https://github.com/OmniLayer/spec
+- [ ] https://www.ledger.com/zh-hans/academy
 
 ## 0x02-Web3智能合约
 
