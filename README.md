@@ -2,9 +2,9 @@
 
 ![Web3Hack](https://socialify.git.ci/Web3Hack/Web3Hack/image?description=0&descriptionEditable=%20&font=Bitter&forks=1&issues=1&name=1&owner=0&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
-本项目是记录自己在学习区块链安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解区块链，尽可能的深入理解区块链安全。深入学习区块链安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习Web3安全的过程中遇到的优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的理解Web3，尽可能的深入理解Web3安全。深入学习Web3安全，直至宇宙重启！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2023年11月7日，最近的一次更新时间为2024年1月31日。
+本项目创建于2023年11月7日，最近的一次更新时间为2024年4月14日。
 
 - [0x01-Web3学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x01-web3%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB)
   - |[01-政策法规](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84)|[02-优秀资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E4%BC%98%E7%A7%80%E8%B5%84%E6%BA%90)|[03-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)|[04-博客论坛](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E8%AE%BA%E5%9D%9B%E5%8D%9A%E5%AE%A2)|[05-学术论文](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87)|[06-年度报告](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)|[07-地址查询](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E5%9C%B0%E5%9D%80%E6%9F%A5%E8%AF%A2)|[08-协议技术](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#08-%E5%8D%8F%E8%AE%AE%E6%8A%80%E6%9C%AF)|[09-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#09-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)|
@@ -14,17 +14,15 @@
   - |[01-学习资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-1)|[02-视频教程](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B-1)|[03-漏洞类型](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E6%BC%8F%E6%B4%9E%E7%B1%BB%E5%9E%8B)|[04-审计标准](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E5%AE%A1%E8%AE%A1%E6%A0%87%E5%87%86)|[05-审计报告](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A)|[06-审计工具](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#06-%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)|[07-漏洞复现](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#07-%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0)|[08-漏洞复现](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#08-%E6%BC%8F%E6%B4%9E%E8%B5%8F%E9%87%91)|[09-其他资源](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#09-%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90-1)|
 - [0x04-Web3黑客事件](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x04-web3%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)
   - |[01-事件统计](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E4%BA%8B%E4%BB%B6%E7%BB%9F%E8%AE%A1)|[02-公开事件](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E5%85%AC%E5%BC%80%E4%BA%8B%E4%BB%B6)|[03-黑客事件](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6)|
-- [0x05-Web3冷热钱包](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x05-web3%E5%86%B7%E7%83%AD%E9%92%B1%E5%8C%85)
-  - |[01-知名钱包](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E7%9F%A5%E5%90%8D%E9%92%B1%E5%8C%85)|[02-钱包分类](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E9%92%B1%E5%8C%85%E5%88%86%E7%B1%BB)|[03-创建钱包](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E5%88%9B%E5%BB%BA%E9%92%B1%E5%8C%85)|
-- [0x06-Web3公司招聘](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x06-web3%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98)
+- [0x05-Web3公司岗位](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x05-web3%E5%85%AC%E5%8F%B8%E5%B2%97%E4%BD%8D)
   - |[01-交易平台](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0)|[02-安全公司](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E5%AE%89%E5%85%A8%E5%85%AC%E5%8F%B8)|[03-招聘岗位](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#03-%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D)|[04-其他平台](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#04-%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0)|[05-其他信息](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#05-%E5%85%B6%E4%BB%96%E4%BF%A1%E6%81%AF)|
-- [0x07-Web3货币交易](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x07-web3%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93)
-  - |[01-现货交易](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#01-%E7%8E%B0%E8%B4%A7%E4%BA%A4%E6%98%93)|[02-合约交易](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#02-%E5%90%88%E7%BA%A6%E4%BA%A4%E6%98%93)|
-- [0x08-Web3参考致谢](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x08-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
+- [0x06-Web3参考致谢](https://github.com/Web3Hack/Web3Hack?tab=readme-ov-file#0x06-web3%E5%8F%82%E8%80%83%E8%87%B4%E8%B0%A2)
 
 ## 0x01-Web3资源汇总
 
 ### 01-政策法规
+
+- 中国政府禁止虚拟货币，支持区块链技术。
 
 ### 02-优秀资源
 
@@ -168,6 +166,7 @@
 ### 01-学习资源
 
 - [ ] Solidity语言、Move语言
+- [ ] https://solidity-by-example.org
 - [x] [《Solidity官方手册》](https://docs.soliditylang.org/zh/latest/)@soliditylang
 - [ ] [《以太坊Solidity智能合约开发》](https://item.jd.com/12824926.html)@嘉文等
 - [ ] [《精通以太坊智能合约开发》](https://item.jd.com/10075910987430.html)@熊丽兵
@@ -270,12 +269,12 @@
 - [ ] [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 - [ ] [区块链安全入门笔记](https://github.com/slowmist/Knowledge-Base/tree/master/blockchain_security_study_notes)@慢雾
 - [ ] [区块链安全100问](https://www.sohu.com/a/483689905_121115562)@零时科技
-- [ ] https://paper.seebug.org/1664/
+- [ ] [Zone Token 智能合约审计实录](https://paper.seebug.org/1664/)@慢雾
 - [ ] [关于区块链智能合约安全漏洞类型连载分析](https://github.com/Lianantech/Security-Vulnerabilities-Analysis-Series)@链安
 - [ ] [以太坊智能合约审计CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList)@知道创宇
 - [ ] [区块链公链审计Checklist](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651372563&idx=2&sn=5496dcfd278c2d11c8cad17aee99fb23&chksm=8d39cd9bba4e448d8ced57e6dfa7df8bd905d24c71d46a3025f900f1f9e91057eeffa70abada&scene=21#wechat_redirect)@长亭
-- [ ] https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q
-- [ ] https://github.com/slowmist/eos-bp-nodes-security-checklist
+- [ ] [以太坊智能合约审计 CheckList](https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q)@知道创宇
+- [ ] [EOS超级节点安全执行指南](https://github.com/slowmist/eos-bp-nodes-security-checklist)@慢雾
 - [x] https://github.com/slowmist/Web3-Project-Security-Practice-Requirements
 - [ ] https://github.com/slowmist/cryptocurrency-security
 - [ ] https://github.com/saeidshirazi/Awesome-Smart-Contract-Security
@@ -308,7 +307,6 @@
 ### 03-漏洞类型
 
 - 底层代码安全、加密算法安全、网络协议安全、共识协议安全、密码协议安全、智能合约安全、链上链下协同安全、跨链安全、基础Web2安全。
-- [ ] https://solidity-by-example.org/
 - [ ] https://github.com/Quillhash/Solidity-Attack-Vectors
 - [x] https://github.com/kadenzipfel/smart-contract-vulnerabilities
 - [ ] https://github.com/sirhashalot/SCV-List
@@ -577,29 +575,16 @@
 - https://mp.weixin.qq.com/s/Kk2lsoQ1679Gda56Ec-zJg
 - https://blog.chain.link/reentrancy-attacks-and-the-dao-hack-zh
 
-## 0x05-Web3冷热钱包
-
-### 01-知名钱包
-
-- https://www.ledger.com/
-
-### 02-钱包分类
-
-- https://www.coinspot.com.au/
-
-### 03-创建钱包
-
-- https://goethereumbook.org/zh/wallet-generate/
-
-## 0x06-Web3公司招聘
+## 0x05-Web3公司招聘
 
 ### 01-交易平台
 
 - https://skynet.certik.com/zh-CN/leaderboards/exchange
-- 币安：https://www.binance.com
-- 火币：https://www.htx.com
-- 欧易：https://www.okx.com
+- https://www.binance.com
+- https://www.htx.com
+- https://www.okx.com
 - https://www.bitget.com
+- https://www.gate.io
 
 ### 02-安全公司
 
@@ -657,7 +642,7 @@
 - [ ] https://foresightnews.pro/job
 - [ ] https://www.jobprotocol.xyz/
 - [ ] https://stablegram.com/
-- [ ] https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729
+- [ ] [Web3 Job Database](https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729)
 - [ ] https://github.com/JiceJin/who-is-hiring
 - [ ] https://parax.ai/
 - [ ] https://techflowpost.substack.com/p/web3
@@ -672,13 +657,7 @@
 
 - [ ] [Working-in-Web3-The-Handbook](https://smsunarto.notion.site/smsunarto/Working-in-Web3-The-Handbook-22d66a8608da4e9a8887a7f22170a940)
 
-## 0x07-Web3货币交易
-
-### 01-现货交易
-
-### 02-合约交易
-
-## 0x08-Web3参考致谢
+## 0x06-Web3参考致谢
 
 - [ ] https://github.com/xiaolai
 - [ ] https://twitter.com/sunyuchentron
