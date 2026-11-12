@@ -642,6 +642,7 @@
 - [ ] https://foresightnews.pro/job
 - [ ] https://www.jobprotocol.xyz/
 - [ ] https://stablegram.com/
+- [ ] https://maneki.work/
 - [ ] [Web3 Job Database](https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?pli=1#gid=870926729)
 - [ ] https://github.com/JiceJin/who-is-hiring
 - [ ] https://parax.ai/
